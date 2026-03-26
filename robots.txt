@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://automaticstay.org/sitemap.xml
