@@ -1,0 +1,16 @@
+{
+  "name": "The Automatic Stay in Bankruptcy -- Section 362",
+  "short_name": "automaticstay.org",
+  "description": "Plain-English guide to the automatic stay under 11 U.S.C. Section 362. What it stops, how long it lasts, and creditor violations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
