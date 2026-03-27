@@ -8,7 +8,13 @@ automaticstay.org provides a comprehensive guide to the automatic stay, the imme
 
 ## Key Pages
 
-- [Home](https://automaticstay.org/): Full guide to the automatic stay -- what it stops, duration, repeat filer rules, violations, and enforcement
+- [Home](https://automaticstay.org/): Overview of the automatic stay -- your shield against creditors
+- [What It Covers](https://automaticstay.org/what-it-covers.html): Lawsuits, garnishments, foreclosures, repossessions, collection calls, utility shutoffs -- organized by creditor type
+- [Violations](https://automaticstay.org/violations.html): When creditors violate the stay -- 362(k) damages, what to do, common violations
+- [Exceptions](https://automaticstay.org/exceptions.html): Criminal proceedings, domestic support, tax audits, certain evictions, police power
+- [Repeat Filer Limits](https://automaticstay.org/serial-filer-limits.html): 362(c)(3) 30-day stay, 362(c)(4) no stay, BAPCPA 2005 changes
+- [Motion for Relief](https://automaticstay.org/motion-for-relief.html): When creditors ask to lift the stay -- grounds, hearing, how to oppose
+- [How Long Does It Last](https://automaticstay.org/how-long-does-it-last.html): Chapter 7 vs Chapter 13 duration, discharge injunction, dismissal
 - [Spanish Version](https://automaticstay.org/index-es.html): Guide in Spanish (La suspension automatica)
 
 ## Network
