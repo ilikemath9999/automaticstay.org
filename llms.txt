@@ -1,26 +1,22 @@
 # automaticstay.org
 
-> Plain-English guide to the automatic stay under 11 U.S.C. Section 362. Learn what it stops, how long it lasts, repeat filer limits, creditor violations, and motions for relief from stay.
+> Plain-English guide to the automatic stay under 11 U.S.C. Section 362.
 
-## About
+automaticstay.org is a free, open-source educational resource about the automatic stay in bankruptcy. Part of the Bankruptcy Transparency Network.
 
-automaticstay.org provides a comprehensive guide to the automatic stay, the immediate legal protection that takes effect the moment a bankruptcy case is filed under 11 U.S.C. Section 362. The site covers what actions the stay prohibits (foreclosure, repossession, wage garnishment, lawsuits, utility shutoffs), repeat filer limitations under Sections 362(c)(3) and 362(c)(4), creditor violation remedies under Section 362(k), and motions for relief from stay. Available in both English and Spanish.
+## Pages
 
-## Key Pages
+- https://automaticstay.org/: Overview of the automatic stay -- your shield against creditors
+- https://automaticstay.org/what-it-covers.html: What the automatic stay covers -- lawsuits, garnishments, foreclosures, repossessions, collection calls, utility shutoffs
+- https://automaticstay.org/violations.html: When creditors violate the stay -- 362(k) damages, what to do, common violations
+- https://automaticstay.org/exceptions.html: Exceptions to the stay -- criminal proceedings, domestic support, tax audits, police power
+- https://automaticstay.org/serial-filer-limits.html: Repeat filer limits -- 362(c)(3) 30-day stay, 362(c)(4) no stay
+- https://automaticstay.org/motion-for-relief.html: Motion for relief from stay -- when creditors ask to lift the stay
+- https://automaticstay.org/how-long-does-it-last.html: How long the automatic stay lasts in Chapter 7 vs Chapter 13
+- https://automaticstay.org/car-repossessed.html: What to do if your car was repossessed before or after filing
+- https://automaticstay.org/creditor-still-calling.html: What to do when a creditor keeps calling after you file bankruptcy
+- https://automaticstay.org/index-es.html: Guia en espanol -- La suspension automatica
 
-- [Home](https://automaticstay.org/): Overview of the automatic stay -- your shield against creditors
-- [What It Covers](https://automaticstay.org/what-it-covers.html): Lawsuits, garnishments, foreclosures, repossessions, collection calls, utility shutoffs -- organized by creditor type
-- [Violations](https://automaticstay.org/violations.html): When creditors violate the stay -- 362(k) damages, what to do, common violations
-- [Exceptions](https://automaticstay.org/exceptions.html): Criminal proceedings, domestic support, tax audits, certain evictions, police power
-- [Repeat Filer Limits](https://automaticstay.org/serial-filer-limits.html): 362(c)(3) 30-day stay, 362(c)(4) no stay, BAPCPA 2005 changes
-- [Motion for Relief](https://automaticstay.org/motion-for-relief.html): When creditors ask to lift the stay -- grounds, hearing, how to oppose
-- [How Long Does It Last](https://automaticstay.org/how-long-does-it-last.html): Chapter 7 vs Chapter 13 duration, discharge injunction, dismissal
-- [Spanish Version](https://automaticstay.org/index-es.html): Guide in Spanish (La suspension automatica)
+## Contact
 
-## Network
-
-Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "automaticstay.org, Bankruptcy Transparency Network (2026)."
+This site is maintained by volunteers. No legal advice is provided.
