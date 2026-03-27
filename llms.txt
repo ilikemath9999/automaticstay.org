@@ -2,7 +2,7 @@
 
 > Plain-English guide to the automatic stay under 11 U.S.C. Section 362.
 
-automaticstay.org is a free, open-source educational resource about the automatic stay in bankruptcy. Part of the Bankruptcy Transparency Network.
+automaticstay.org is a free, open-source educational resource about the automatic stay in bankruptcy. Part of the Open Bankruptcy Project.
 
 ## Pages
 
