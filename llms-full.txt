@@ -1,0 +1,3686 @@
+# automaticstay.org -- Full Content
+
+This file contains the full text content of all pages on automaticstay.org.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Automatic Stay Limited to 30 Days for Repeat Filers -- Section 362(c)(2) and (c)(3)
+Source: https://automaticstay.org/362c-repeat-filer.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+Automatic Stay Limited to 30 Days for Repeat Filers
+
+If you had a prior bankruptcy case dismissed within the past year, the automatic stay in your new case may only last 30 days -- or may not go into effect at all. Sections 362(c)(3) and 362(c)(4) explain when and why.
+
+Home / 30-Day Limit for Repeat Filers
+
+The default rule vs. the repeat-filer rule
+
+Under the normal rule, when you file bankruptcy, the automatic stay goes into effect immediately and lasts until the case is closed, dismissed, or you receive a discharge. During that time, creditors cannot collect, sue, repossess, foreclose, or garnish your wages. This is one of the most powerful protections in bankruptcy law.
+
+But Congress changed the rules for repeat filers. The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) added Sections 362(c)(3) and 362(c)(4) to the Bankruptcy Code. These provisions limit or eliminate the automatic stay for people who have had prior bankruptcy cases dismissed within the past year.
+
+The logic behind these provisions is that some debtors were filing bankruptcy repeatedly just to trigger the automatic stay and delay creditors, with no genuine intention to complete a case. Congress decided that repeat filers should have to earn the protection rather than receive it automatically.
+
+Important distinction: These rules apply when a prior case was dismissed -- not when it was completed with a discharge. If your prior case ended with a successful discharge, these repeat-filer limitations do not apply to your new filing.
+
+Section 362(c)(3): One prior case dismissed within 1 year
+
+If you had one prior bankruptcy case that was pending within the year before your new filing and that prior case was dismissed, the automatic stay in your new case will terminate 30 days after the new filing date.
+
+11 U.S.C. Section 362(c)(3): If a single or joint case is filed by or against a debtor who is an individual in a case under chapter 7, 11, or 13, and if a single or joint case of the debtor was pending within the preceding 1-year period but was dismissed ... the stay under subsection (a) with respect to any action taken with respect to a debt or property securing such debt or with respect to any lease shall terminate with respect to the debtor on the 30th day after the filing of the later case.
+
+After the 30-day mark, the stay simply ends. Creditors regain the right to pursue collection activity, repossession, foreclosure, garnishment, and lawsuits -- unless you take action to extend it.
+
+How to extend the stay past 30 days
+
+You can ask the court to extend the stay beyond the 30-day window. To do this, you must:
+
+File a motion to extend the automatic stay before the 30 days expire. Do not wait until day 29 -- file it as early as possible, ideally on the same day you file the petition or within the first few days.
+
+Serve the motion on all affected creditors so they have notice and an opportunity to object.
+
+Request a hearing before the 30-day deadline. Many courts have expedited or emergency procedures for these motions because of the tight timeline.
+
+Demonstrate good faith. The court must find that the new case was filed in good faith as to the creditors to be stayed. This is the key hurdle.
+
+The presumption of bad faith
+
+Here is the catch: Section 362(c)(3)(B) creates a presumption that the new case was not filed in good faith. This presumption arises if:
+
+The prior case was dismissed after the debtor failed to file required documents (schedules, means test, tax returns, etc.)
+
+The prior case was dismissed after the debtor failed to perform the terms of a confirmed plan
+
+There has been no substantial change in the debtor's financial or personal affairs since the prior dismissal
+
+There is no reason to believe the new case will conclude with a discharge (in Chapter 7) or a confirmed plan that will be fully performed (in Chapter 13)
+
+The presumption is rebuttable, meaning you can overcome it with evidence. But you carry the burden. The court is not going to assume your new case is legitimate -- you have to prove it.
+
+Section 362(c)(4): Two or more prior cases dismissed within 1 year
+
+If you had two or more prior bankruptcy cases that were pending within the year before your new filing and those cases were dismissed, the situation is much worse: no automatic stay goes into effect at all.
+
+11 U.S.C. Section 362(c)(4)(A): If a single or joint case is filed by or against a debtor who is an individual under this title, and if 2 or more single or joint cases of the debtor were pending within the previous 1-year period but were dismissed ... the stay under subsection (a) shall not go into effect upon the filing of the later case.
+
+This is the harshest consequence. From the moment you file, you have zero stay protection. Creditors can continue all collection activity as if you had not filed at all.
+
+Filing a motion to impose the stay
+
+You can ask the court to impose a stay, but the standard is higher than extending one:
+
+You must file a motion to impose the stay within 30 days of the filing date
+
+You must demonstrate good faith by clear and convincing evidence -- a higher standard than the preponderance standard used for a single prior dismissal
+
+The same presumption of bad faith applies, and it is even harder to overcome with two or more prior dismissals on record
+
+No stay means real consequences. During the period before (and unless) the court grants your motion to impose the stay, your home can be foreclosed, your car can be repossessed, your wages can be garnished, and lawsuits can proceed. Filing the petition alone does not stop anything.
+
+How to overcome the presumption of bad faith
+
+Whether you are dealing with Section 362(c)(3) (one prior dismissal) or Section 362(c)(4) (two or more), the key is showing the court that your new case is genuinely different from the ones that failed. Courts look at concrete, verifiable changes:
+
+Changed financial circumstances
+
+New employment or significantly increased income since the prior dismissal
+
+A major expense has been resolved (medical debt paid, divorce finalized, child support obligations adjusted)
+
+A concrete budget showing how plan payments will be made this time
+
+Resolution of the cause of prior dismissal
+
+If the prior case was dismissed for failure to file documents -- explain why and show the documents are ready this time
+
+If the prior case was dismissed for failure to make plan payments -- show what has changed (new income, lower expenses, different plan structure)
+
+If the prior case was dismissed voluntarily -- explain the specific reason and why it no longer applies
+
+Different chapter or strategy
+
+Filing under a different chapter (e.g., Chapter 13 after a failed Chapter 7, or vice versa) can support a good faith argument
+
+A more realistic plan with lower payments or a longer term
+
+Retaining counsel when the prior case was pro se (or vice versa, if prior counsel was the problem)
+
+Third-party factors
+
+The prior dismissal was caused by something outside your control (attorney error, medical emergency, natural disaster)
+
+A creditor's actions forced the dismissal (wrongful garnishment, fraudulent claim)
+
+The dismissal was a technical or procedural issue that has been corrected
+
+Documentation wins. Courts respond to evidence, not promises. Bring pay stubs, bank statements, a completed budget, proof of credit counseling, and anything else that shows your new filing is based on a real plan. The more concrete your evidence, the better your chances.
+
+Strategic timing: filing the motion early
+
+Time is your enemy in a repeat-filing situation. You have 30 days at most (and zero days if you are under Section 362(c)(4)). Here are the timing strategies that matter:
+
+File the motion the same day as the petition
+
+Many bankruptcy attorneys file the motion to extend or impose the stay on the same day as the petition. Some courts require it. Even where it is not technically required, filing early gives the court more time to schedule a hearing before the 30-day window closes.
+
+Request emergency or expedited hearing
+
+Most courts have procedures for emergency motions when time-sensitive relief is needed. A motion to extend the stay under 362(c)(3) qualifies. Contact the clerk's office or check local rules for the specific procedure in your district.
+
+Serve creditors immediately
+
+Creditors are entitled to notice and an opportunity to be heard before the court extends the stay. The sooner you serve them, the sooner the hearing can happen. Some courts require service by a specific method (e.g., first-class mail, electronic service) -- check your local rules.
+
+Have all supporting evidence ready before filing
+
+Do not file the petition and then scramble to put your motion together. Have the motion, supporting declaration, exhibits (pay stubs, budget, explanation of changed circumstances), and proposed order drafted before you file the new case.
+
+If you miss the 30-day window under Section 362(c)(3): Most courts hold that the stay has terminated and cannot be retroactively extended. Some courts have allowed late motions in extraordinary circumstances, but this is the exception. Do not count on it.
+
+The "pending within 1 year" language
+
+The statute says "pending within the preceding 1-year period." This language matters in several ways:
+
+It includes cases filed more than a year ago
+
+If you filed a case 14 months ago and it was dismissed 8 months ago, it counts. The case was "pending" within the 1-year period because it was still open during that window, even though the filing date was more than a year back.
+
+Multiple short-lived cases stack
+
+If you filed two separate cases within the past year and both were dismissed -- even if each one only lasted a few weeks -- both count. Two dismissed cases within the year trigger the harsher Section 362(c)(4) rule (no stay at all).
+
+It does not matter why the cases were dismissed
+
+The statute does not distinguish between voluntary and involuntary dismissals for purposes of counting prior cases. A case you dismissed yourself, a case dismissed for failure to file documents, and a case dismissed for failure to make payments all count the same. The reason for dismissal becomes relevant only at the good-faith hearing, not for determining whether the limitation applies.
+
+Cases pending in any chapter count
+
+A prior Chapter 7 case dismissed within the year counts against a new Chapter 13 filing, and vice versa. The chapter of the prior or current case does not affect whether the repeat-filer limitation kicks in.
+
+Practical checklist for repeat filers
+
+If you are considering filing bankruptcy after a prior case was dismissed within the past year, work through this list before you file:
+
+Count your prior dismissed cases. How many cases were pending within the past 12 months that ended in dismissal? One triggers the 30-day rule. Two or more means no stay at all.
+
+Identify what changed. Write down every material change in your financial situation since the prior dismissal. New job? Higher income? Lower expenses? Resolved legal issues? This becomes the core of your motion.
+
+Gather documentation. Pay stubs, bank statements, employment verification, budget worksheets, proof of credit counseling completion, and any other evidence supporting your good-faith argument.
+
+Understand why the prior case failed. Courts will want to know -- and so will you. If the same problem exists, your motion to extend or impose the stay is unlikely to succeed.
+
+Draft the motion before filing. Have the motion to extend (or impose) the automatic stay ready to file on the same day as the petition. Include a supporting declaration and all exhibits.
+
+Check local rules. Some districts have specific requirements for 362(c)(3) and 362(c)(4) motions -- required forms, service deadlines, hearing procedures. Check with the clerk's office.
+
+Consider waiting. If you can wait until 366 days after the prior dismissal, the repeat-filer provisions no longer apply and you get the full automatic stay. This is often the safest strategy if you are not facing an imminent foreclosure or repossession.
+
+Consult an attorney. Repeat-filing cases are procedurally complex and time-sensitive. An experienced bankruptcy attorney can significantly improve your chances of getting the stay extended or imposed.
+
+Related resources
+
+Repeat Filer Limits -- Overview of all limitations on serial bankruptcy filings
+
+Motion to Extend the Automatic Stay (Comfort Order) -- Detailed guide to filing the motion
+
+How Long Does the Automatic Stay Last? -- General duration rules
+
+Relief from Stay -- When creditors can ask the court to lift the stay
+
+serialfiler.org -- Comprehensive guide to serial filing restrictions
+
+109g.org: Serial Filer Protection -- The 180-day filing bar under Section 109(g)
+
+dischargebar.org -- Waiting periods between discharge and refiling
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+---
+
+## Bankruptcy Protection -- How Bankruptcy Protects You [2026] -- Automatic Stay
+Source: https://automaticstay.org/bankruptcy-protection.html
+
+Skip to main content
+
+automaticstay.org
+☰
+
+Home
+Protection
+Violations
+Exceptions
+Relief from Stay
+Repeat Filers
+FAQ
+
+Bankruptcy Protection -- How Bankruptcy Protects You
+
+Three layers of federal protection: the automatic stay stops creditors instantly, exemptions shield your property, and the discharge injunction eliminates debts permanently.
+
+Quick Answer
+
+Bankruptcy protects you in three ways: (1) The automatic stay (Section 362) stops all collection actions the instant you file. (2) Exemptions (Section 522) protect your property from the trustee. (3) The discharge injunction (Section 524) permanently prohibits creditors from collecting discharged debts. Protection begins immediately at filing and the discharge injunction lasts forever.
+
+Layer 1: The Automatic Stay (11 U.S.C. § 362)
+
+The automatic stay is the most immediate and powerful bankruptcy protection. It takes effect the instant your petition is filed -- before the case is assigned to a judge, before creditors receive notice, and before your first hearing.
+
+What the automatic stay stops
+
+Lawsuits: All civil litigation against you is stayed, including debt collection lawsuits, breach of contract claims, and personal injury suits (except DUI-related).
+
+Wage garnishments: Your employer must stop withholding wages for prepetition debts as soon as they receive notice of the filing.
+
+Foreclosure: Foreclosure proceedings are halted, even if a sale is scheduled. In Chapter 13, you can cure the default over 3-5 years. See keepmyhouseinbankruptcy.com.
+
+Repossession: Creditors cannot repossess your car or other collateral after the petition is filed.
+
+Bank account levies: Creditors cannot freeze or seize your bank accounts for prepetition debts.
+
+Collection calls and letters: All contact from debt collectors must stop. Continued contact may violate the stay.
+
+Utility disconnection: Utilities cannot be shut off for 20 days after filing for prepetition amounts (11 U.S.C. § 366).
+
+What the automatic stay does NOT stop
+
+Criminal proceedings against you
+
+Certain tax proceedings (audit, assessment, demand for tax return)
+
+Domestic support obligation collection (child support, alimony)
+
+Eviction where a judgment for possession was entered before filing (subject to limited exceptions under Section 362(b)(22))
+
+Actions by the Secretary of HUD to foreclose on government-backed mortgages (in certain circumstances)
+
+Violations are enforceable: Under 11 U.S.C. § 362(k), a creditor who willfully violates the automatic stay is liable to the debtor for actual damages, including costs and attorney fees, and in appropriate circumstances, punitive damages. If a creditor contacts you after filing, document the violation and notify your attorney or the court.
+
+Layer 2: Property Exemptions (11 U.S.C. § 522)
+
+Exemptions protect your property from the bankruptcy trustee. Under 11 U.S.C. § 522, you can designate certain property as exempt -- meaning the trustee cannot sell it to pay creditors. Common exemption categories include:
+
+Homestead: Equity in your primary residence (amounts vary by state -- see bankruptcyexemptionsbystate.com).
+
+Motor vehicle: Equity in your car, typically $2,000-$7,000 depending on state.
+
+Household goods: Furniture, appliances, clothing, and personal items up to a per-item or aggregate limit.
+
+Retirement accounts: 401(k), IRA, and most pension plans are fully exempt under federal law (11 U.S.C. § 522(b)(3)(C) and (d)(12)).
+
+Wildcard: Many states offer a "wildcard" exemption that can protect any property of your choice, up to a dollar limit.
+
+Tools of trade: Equipment and tools necessary for your occupation.
+
+Public benefits: Social Security, unemployment compensation, veterans' benefits, and disability payments are generally fully exempt.
+
+State vs. federal exemptions: Under Section 522(b), most states have opted out of the federal exemption scheme and require debtors to use state exemptions. A few states (including Texas, California, Connecticut, and others) allow you to choose between state and federal exemptions. The choice depends on which set protects more of your property.
+
+Layer 3: The Discharge Injunction (11 U.S.C. § 524)
+
+The discharge injunction is the permanent protection that makes bankruptcy powerful. When the court enters a discharge order, it permanently prohibits creditors from taking any action to collect discharged debts -- forever. This applies to all creditors, their agents, assigns, and successors.
+
+The discharge injunction means:
+
+Creditors cannot sue you for the discharged debt
+
+Creditors cannot call, write, or contact you about the debt
+
+Creditors cannot report the debt as currently owed on your credit report (though the bankruptcy filing itself remains on your credit report for 7-10 years)
+
+No one can garnish your wages or seize your property for a discharged debt
+
+Violations of the discharge injunction can result in contempt of court, sanctions, and damages. See dischargeinjunction.com for a detailed guide.
+
+Not all debts are dischargeable. Certain debts survive bankruptcy, including most student loans (absent undue hardship), recent tax debts, child support and alimony, debts obtained by fraud, and criminal fines. See 523a.org for the full list of exceptions under 11 U.S.C. § 523.
+
+When Protection Is Limited: Repeat Filers
+
+If you have had a prior bankruptcy case dismissed within the past year, your automatic stay protection may be reduced:
+
+One prior dismissal (Section 362(c)(3)): The automatic stay expires after 30 days unless you file a motion and the court extends it, showing the new filing is in good faith.
+
+Two or more prior dismissals (Section 362(c)(4)): No automatic stay at all unless you file a motion and the court imposes it, showing good faith.
+
+Section 109(g) filing bar: If your prior case was dismissed for willful failure to obey court orders, to appear, or if you requested dismissal after a stay relief motion was filed, you may be barred from refiling for 180 days. See 109g.org.
+
+If you have filed before, check 1328f.com to determine whether a discharge bar applies under Section 1328(f).
+
+If a creditor violates your bankruptcy protection: Document every contact (save letters, record dates/times of calls, take screenshots). Notify the creditor in writing that you have filed bankruptcy and provide your case number. If violations continue, you may be entitled to actual damages, attorney fees, and punitive damages under 11 U.S.C. § 362(k). Consult your attorney or the court.
+
+Frequently Asked Questions
+
+How does bankruptcy protect you from creditors?
+
+Three layers: the automatic stay (Section 362) stops all collection actions instantly at filing, exemptions (Section 522) protect your property from the trustee, and the discharge injunction (Section 524) permanently prohibits creditors from collecting discharged debts after the case ends.
+
+When does bankruptcy protection start?
+
+The automatic stay takes effect the instant your petition is filed with the court. No judge needs to sign an order -- protection is automatic and immediate. However, repeat filers may have limited stay protection under Sections 362(c)(3) and (c)(4).
+
+What does the automatic stay stop?
+
+Lawsuits, wage garnishments, foreclosure, vehicle repossession, bank levies, collection calls, and utility disconnection (for 20 days). It does NOT stop criminal proceedings, domestic support collection, or certain tax proceedings.
+
+When does bankruptcy protection end?
+
+The automatic stay ends when the case is closed, dismissed, or when discharge is granted or denied. It can also end earlier if a creditor obtains relief from stay. The discharge injunction under Section 524 is permanent and protects you forever on discharged debts.
+
+Related Topics
+
+Discharge Injunction
+Relief from Stay
+Non-Dischargeable Debts
+Keep My House
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending)
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+automaticstay.org
+meanstest.org
+341meeting.org
+523a.org
+109g.org
+727a8.com
+dischargeinjunction.com
+howtofilebankruptcy.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## My Car Was Repossessed After I Filed Bankruptcy -- What Do I Do? -- Automatic Stay
+Source: https://automaticstay.org/car-repossessed.html
+
+automaticstay.org
+☰
+
+The Automatic Stay
+Car Repossessed
+Eligibility Screener
+30-Day Limit
+Research
+
+Automatic Stay › Car Repossessed After Filing
+
+My Car Was Repossessed After I Filed Bankruptcy -- What Do I Do?
+
+A step-by-step guide for debtors | Part of the Open Bankruptcy Project
+
+If this just happened to you, read this first. The automatic stay under 11 U.S.C. Section 362 goes into effect the instant your bankruptcy petition is filed with the court. If your car was repossessed after that moment, the lender may have violated federal law. You may be entitled to the return of your vehicle and money damages.
+
+Step 1: Confirm the Timeline
+
+The single most important fact is when the repossession happened relative to your filing.
+
+Find your exact filing date and time. This is on your bankruptcy petition (the first page of your filing). If you do not have a copy, you can look up your case on PACER or ask the clerk's office at your bankruptcy court. The automatic stay starts at the date and time stamped on the petition.
+
+Find the exact date and time of the repossession. Check any notice the repo company left, text messages, doorbell camera footage, or call your lender and ask when the repo order was executed. Write this down.
+
+Compare the two. If the repossession happened after your filing date and time, the lender likely violated the automatic stay.
+
+If the repossession happened BEFORE you filed: The automatic stay does not apply retroactively. However, you may still be able to get the car back if you file before the lender sells it. In Chapter 13, you can include the arrears in your plan. Time is critical -- lenders can sell repossessed vehicles quickly (as few as 10 days in some states). Talk to an attorney or your bankruptcy court's pro se clerk immediately.
+
+Step 2: Contact the Lender
+
+If the repo happened after your filing:
+
+Call the lender's bankruptcy department. Most large lenders (Ally, Capital One, credit unions) have a dedicated bankruptcy department separate from collections. Ask to be transferred there.
+
+Give them your case number and filing date. Say: "I filed bankruptcy on [date] in [court]. My case number is [number]. My vehicle was repossessed on [date], which was after my filing. This is a violation of the automatic stay under Section 362. I am requesting the immediate return of my vehicle."
+
+Get the name of the person you spoke to. Write down their name, title, direct phone number, and the date and time of your call. If they transfer you, get the new person's information too.
+
+Follow up in writing. Send a letter or email to the lender stating the same information. Keep a copy. Certified mail with return receipt is best if you send a physical letter.
+
+Many lenders will return the car voluntarily. Once the bankruptcy department confirms your filing date, most reputable lenders will order the vehicle returned within 24-72 hours. The repo was usually caused by a processing delay -- the repo order was issued before the filing hit the lender's system. This does not excuse the violation, but it often results in a faster resolution.
+
+Step 3: If the Lender Refuses
+
+If the lender will not return your vehicle voluntarily, you have legal remedies:
+
+File a motion in your bankruptcy court. Ask the court to hold the lender in contempt for violating the automatic stay and to order the return of the vehicle. Many bankruptcy courts have standard forms for this motion. Ask the clerk's office.
+
+Request damages. Under Section 362(k), an individual debtor injured by a willful stay violation can recover:
+
+Actual damages -- rental car costs, ride-share expenses, lost wages from missing work, towing fees, storage fees, personal property left in the vehicle
+
+Attorney fees and costs -- if you hire an attorney to enforce the stay, the lender pays those fees, not you
+
+Punitive damages -- in cases of particularly bad conduct (repeated violations, refusal to return the vehicle, pattern of ignoring bankruptcy filings)
+
+Document everything while you wait. Save every receipt for alternative transportation. Keep a log of every call, letter, and email. Screenshot any text messages. This documentation becomes your damages evidence.
+
+Important: Repeat Filer Limitations
+
+If you had a prior bankruptcy case that was dismissed within the past year, the automatic stay may be limited:
+
+One prior dismissal in the past year: The stay lasts only 30 days unless you file a motion to extend it and the court grants the extension.
+
+Two or more prior dismissals in the past year: The stay may not go into effect at all unless you file a motion and the court imposes it.
+
+If you are a repeat filer, check whether the stay was in effect at the time of the repossession. Use the free eligibility screener to check your filing history and discharge bar status.
+
+Section 362(c)(3) and 362(c)(4) contain the repeat-filer limitations. These sections were added by BAPCPA in 2005. If your prior case was dismissed more than one year before your current filing, these limitations do not apply and the full automatic stay is in effect.
+
+What If the Car Was Already Sold?
+
+If the lender repossessed your car after your filing AND sold it before you could act, the stay violation is even more serious. The lender cannot undo the sale, but you may be entitled to:
+
+The fair market value of the vehicle at the time of sale
+
+All actual damages (same as above -- transportation costs, lost wages, etc.)
+
+Potentially significant punitive damages, because selling a vehicle that should have been returned demonstrates willful disregard for the bankruptcy process
+
+Keep These Records
+
+Whether or not the lender cooperates, preserve this evidence:
+
+Your bankruptcy petition with the court-stamped filing date and time
+
+The repossession notice or any documentation from the repo company
+
+All correspondence with the lender (calls, letters, emails)
+
+Receipts for alternative transportation (rental car, Uber/Lyft, bus passes)
+
+Documentation of missed work or lost income
+
+Photos or video of the repossession if available (doorbell camera, dashcam)
+
+A written timeline of events with dates and times
+
+Related Resources
+
+The Automatic Stay Explained
+
+Full guide to what the automatic stay stops, how long it lasts, and what happens when creditors violate it.
+
+Read the full guide →
+
+Creditor Still Calling?
+
+Phone calls from collectors after you filed may also violate the stay. Here is what to do.
+
+What to do →
+
+Can I File Again?
+
+If your case was dismissed, you may be able to refile -- but the stay rules change for repeat filers.
+
+Check eligibility →
+
+Relief from Stay Motions
+
+Sometimes the creditor files a motion asking the court to lift the stay. Know what to expect.
+
+Learn more →
+
+Not Legal Advice. This page provides general information about the automatic stay and vehicle repossession in bankruptcy. It does not constitute legal advice and does not create an attorney-client relationship. Every situation is different. If your car has been repossessed, consider consulting with a licensed bankruptcy attorney in your jurisdiction. Many bankruptcy attorneys offer free initial consultations.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+automaticstay.org -- Part of the Open Bankruptcy Project
+
+Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
+
+Screener
+Research
+341 Meeting
+Means Test
+Pro Se Resources
+Relief from Stay
+♥ Sponsor
+
+Not legal advice. Not affiliated with any law firm or government agency.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+---
+
+## Motion to Extend the Automatic Stay (Comfort Order)
+Source: https://automaticstay.org/comfort-order.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+Motion to Extend the Automatic Stay (Comfort Order)
+
+When the automatic stay is limited to 30 days under Section 362(c)(3), you need a court order to keep it in place. Here is how the process works and what courts expect to see.
+
+Home / Comfort Order
+
+What is a comfort order?
+
+A "comfort order" is an informal term used in bankruptcy practice for a court order that extends or confirms the automatic stay. The term is not in the Bankruptcy Code -- it comes from the practical reality that debtors and creditors sometimes need the court to explicitly say "the stay is in effect" to resolve uncertainty.
+
+The most common use of a comfort order is in repeat-filing situations under Section 362(c)(3), where the stay is set to terminate after 30 days. The debtor files a motion asking the court to extend the stay, the court holds a hearing, and if the debtor demonstrates good faith, the court enters an order keeping the stay in place for the duration of the case.
+
+Comfort orders are also used in other situations:
+
+When a creditor claims the stay does not apply to a particular debt or action
+
+When a creditor is ignoring the stay and needs a specific court order to stop
+
+When the debtor wants to confirm that the stay covers a specific piece of property or a specific creditor action
+
+In Chapter 11 cases where the stay's scope is disputed in the context of ongoing business operations
+
+When you need one
+
+Section 362(c)(3) -- one prior case dismissed within a year
+
+This is the most common scenario. If you had one prior bankruptcy case that was pending and dismissed within the year before your new filing, the automatic stay in your new case terminates after 30 days unless the court extends it. You must file a motion to extend the stay and get a court order before the 30 days expire.
+
+Key requirement: The court may extend the stay only after notice and a hearing, and only if the debtor demonstrates that the new case was filed in good faith as to the creditors to be stayed. See 11 U.S.C. Section 362(c)(3)(B).
+
+Section 362(c)(4) -- two or more prior cases dismissed within a year
+
+If two or more prior cases were pending and dismissed within the year, no stay goes into effect at all. You need a court order to impose the stay -- not just extend it. The motion is similar but the burden is higher: you must demonstrate good faith by clear and convincing evidence.
+
+Creditor challenges or confusion
+
+Sometimes a creditor genuinely does not know whether the stay applies to their claim or action. A mortgage servicer may have been transferred the loan mid-case. A debt buyer may have acquired the claim after filing. In these situations, a comfort order from the court confirming the stay's scope can prevent violations before they happen.
+
+Codebtor stay under Chapter 13
+
+In Chapter 13 cases, Section 1301 extends the stay to cover co-debtors on consumer debts. If a creditor is pursuing a co-signer or co-debtor, the debtor may need a comfort order confirming that the codebtor stay is in effect.
+
+How to file the motion
+
+The motion to extend (or impose) the automatic stay is filed as a contested matter in the bankruptcy case. Here is the general process:
+
+Step 1: Draft the motion
+
+The motion should include:
+
+Identification of the prior case(s): Case number, chapter, filing date, dismissal date, and the reason for dismissal
+
+Statement of changed circumstances: What is different this time -- new income, resolved issues, different chapter, concrete plan
+
+Rebuttal of the presumption of bad faith: Address each factor listed in Section 362(c)(3)(C) directly
+
+Request for specific relief: Ask the court to extend (or impose) the stay as to all creditors, or as to specific creditors if appropriate
+
+Supporting declaration: A sworn statement from the debtor explaining the circumstances in detail
+
+Exhibits: Pay stubs, bank statements, budget, employment letter, proof of credit counseling, or any other evidence supporting good faith
+
+Step 2: File before the deadline
+
+Under Section 362(c)(3), the stay terminates on the 30th day. The motion must be filed, noticed, and heard before that date. In practice, this means filing the motion within the first few days of the case -- and ideally on the same day as the petition.
+
+Do not wait. Courts are generally unwilling to extend the stay retroactively after the 30-day period has expired. Once the stay terminates, it is gone. Filing early is not just good practice -- it may be the only way to preserve your rights.
+
+Step 3: Serve all affected creditors
+
+Every creditor affected by the stay must receive notice of the motion and an opportunity to object. Service requirements vary by district -- check your local rules for the required method (mail, electronic service, etc.) and timing.
+
+Step 4: Request an expedited hearing
+
+Because of the 30-day deadline, most courts will schedule an expedited hearing on the motion. Some courts have standing procedures for 362(c)(3) motions -- contact the clerk's office or check the court's website for local requirements.
+
+Step 5: Attend the hearing
+
+Be prepared to explain to the judge what has changed since the prior case was dismissed. Bring all supporting documentation. If creditors appear and object, be ready to respond to their arguments. The judge will either grant the motion (extending the stay), deny it (letting the stay terminate), or continue the hearing for more evidence.
+
+What courts look for
+
+When deciding whether to extend or impose the stay, courts focus on whether the new case represents a genuine attempt at bankruptcy relief rather than a delay tactic. The key factors:
+
+Good faith in the new filing
+
+This is the central question. Courts assess good faith by looking at the totality of the circumstances. No single factor is dispositive, but the following weigh heavily:
+
+Has the debtor's financial situation materially changed since the prior dismissal?
+
+Has the debtor resolved the issue that caused the prior case to fail?
+
+Is there a realistic plan for completing the new case?
+
+Is the debtor's filing motivated by a genuine need for relief, or by a desire to stall a specific creditor action (foreclosure, repossession)?
+
+Changed circumstances
+
+Courts want to see concrete, verifiable changes -- not just promises. Strong evidence includes:
+
+New or increased income: A new job, a raise, a second income from a spouse
+
+Reduced expenses: A resolved legal issue, children aging out of care, a refinanced loan
+
+Different chapter: Filing Chapter 13 after a failed Chapter 7, or vice versa, with an explanation of why the new chapter is more appropriate
+
+Attorney representation: Hiring a bankruptcy attorney after a failed pro se case
+
+Completed requirements: Credit counseling done, documents prepared, plan drafted before filing
+
+Explanation for the prior dismissal
+
+The court will want to know why the prior case was dismissed. Explanations that help:
+
+Attorney error or abandonment (particularly if the debtor has new counsel)
+
+Medical emergency or family crisis that has since resolved
+
+Procedural dismissal for a minor issue (missed deadline, missing document) that has been corrected
+
+Voluntary dismissal to address a specific problem before refiling
+
+Explanations that hurt:
+
+Failure to make plan payments with no change in income or expenses
+
+Repeated failure to file required documents
+
+Filing primarily to stop a foreclosure with no realistic plan to cure the arrearage
+
+The presumption of bad faith -- and how to rebut it
+
+Section 362(c)(3)(C) creates a presumption that the filing is not in good faith if any of the following are true:
+
+More than one prior case was pending within the year (this triggers the harsher 362(c)(4) instead)
+
+The prior case was dismissed after the debtor failed to file required documents (schedules, statement of financial affairs, means test, tax returns)
+
+The prior case was dismissed after the debtor failed to adequately protect the interest of a secured creditor (e.g., did not make adequate protection payments)
+
+There has been no substantial change in the debtor's financial or personal affairs since the prior case
+
+The presumption is rebuttable by a preponderance of the evidence under 362(c)(3). Under 362(c)(4), the standard rises to clear and convincing evidence.
+
+Practical tip: Address each presumption factor directly in your motion. If one of them applies, explain specifically what you have done to fix the problem. Courts appreciate debtors who acknowledge the prior failure and show concrete steps taken to prevent it from happening again.
+
+What the motion should contain
+
+While every district has its own formatting and procedural requirements, a strong motion to extend the automatic stay generally includes these components:
+
+Caption and case information: Standard bankruptcy motion header with your case number, chapter, and judge assignment
+
+Statement of jurisdiction: Brief statement that the court has jurisdiction under 28 U.S.C. Section 1334 and this is a core proceeding under 28 U.S.C. Section 157(b)(2)
+
+Factual background: When you filed the prior case, when it was dismissed, and why. When you filed the new case. What has changed.
+
+Legal basis: Citation to 11 U.S.C. Section 362(c)(3)(B) (for extension) or 362(c)(4)(B) (for imposition). Statement of the good-faith standard.
+
+Argument: Point-by-point rebuttal of the presumption of bad faith. Specific evidence of changed circumstances. Explanation of why the new case will succeed.
+
+Prayer for relief: Request that the court enter an order extending (or imposing) the automatic stay as to all creditors, or as to specific creditors.
+
+Declaration of debtor: Sworn statement under penalty of perjury supporting all factual assertions in the motion.
+
+Exhibits: Pay stubs, bank statements, employment verification, budget, credit counseling certificate, and any other supporting evidence.
+
+Proposed order: Many courts require a proposed order submitted with the motion.
+
+If the motion is denied
+
+If the court denies your motion to extend or impose the stay, the consequences are significant:
+
+No stay protection. Creditors can proceed with all collection activity -- foreclosure, repossession, garnishment, lawsuits -- even though your case is still pending.
+
+Your case continues. A denial of the stay extension does not dismiss your case. You can still pursue a discharge or plan confirmation, but without the protective shield of the stay.
+
+Creditor actions may be harder to undo. If a creditor repossesses your car or forecloses on your home while the stay is not in effect, those actions are generally valid.
+
+Options after denial
+
+Continue the case without stay protection. In some situations, you may still benefit from completing the case even without the stay -- particularly in Chapter 7, where the case can move quickly to discharge.
+
+Dismiss the case and wait. If you dismiss the new case and wait at least 366 days from the prior dismissal, the repeat-filer provisions will no longer apply when you refile. This resets the clock. But be careful -- another dismissal creates a worse record.
+
+Appeal the denial. In some circumstances, the denial of a motion to extend the stay can be appealed. This is rare and time-sensitive -- consult an attorney immediately if you are considering an appeal.
+
+Negotiate with creditors directly. Without the stay, you may be able to negotiate a forbearance, workout, or payment arrangement outside of the bankruptcy process.
+
+Be cautious about serial dismissals. Every dismissed case makes the next filing harder. If you dismiss this case and refile later, you will face the same (or worse) presumption of bad faith. Two or more dismissed cases within a year means no stay at all under Section 362(c)(4).
+
+Related resources
+
+30-Day Limit for Repeat Filers -- Full explanation of Sections 362(c)(3) and 362(c)(4)
+
+Repeat Filer Limits -- Overview of all serial filing restrictions
+
+Relief from Stay -- When creditors can ask to lift the stay
+
+How Long Does the Automatic Stay Last? -- General duration rules
+
+relieffromstay.org -- Comprehensive guide to motions for relief from stay
+
+serialfiler.org -- Serial filing restrictions explained
+
+109g.org -- The 180-day filing bar under Section 109(g)
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+---
+
+## Creditor Still Calling After I Filed Bankruptcy -- What Do I Do? -- Automatic Stay
+Source: https://automaticstay.org/creditor-still-calling.html
+
+automaticstay.org
+☰
+
+The Automatic Stay
+Car Repossessed
+Creditor Still Calling
+Eligibility Screener
+30-Day Limit
+Research
+
+Automatic Stay › Creditor Still Calling
+
+A Creditor Is Still Calling Me After I Filed Bankruptcy -- What Do I Do?
+
+A step-by-step guide for debtors | Part of the Open Bankruptcy Project
+
+Short answer: they are probably breaking the law. The automatic stay under 11 U.S.C. Section 362 prohibits all collection activity the instant your bankruptcy is filed. This includes phone calls, letters, emails, text messages, and even social media messages. A creditor who keeps contacting you may owe you damages.
+
+What to Say When They Call
+
+If a creditor or debt collector calls you after you filed bankruptcy, answer the phone. Here is exactly what to say:
+
+What to say -- word for word
+
+"I filed for bankruptcy on [date] in the [district name] bankruptcy court. My case number is [case number]. The automatic stay is in effect. You are required by federal law to stop all collection activity immediately. Please update your records and do not contact me again about this debt. What is your name and employee ID?"
+
+That is the entire call. You do not need to explain more. You do not need to argue. You do not need to provide documentation on the phone (though you can offer to send your case number by email or fax if they request it).
+
+How to Document Every Call
+
+Every call after your filing date is potential evidence. Keep a log. Here is the format:
+
+Date
+Time
+Caller Name
+Company
+Phone Number
+What Was Said
+Told Them About BK?
+
+3/15/26
+2:14 PM
+Sarah M.
+ABC Collections
+800-555-1234
+Demanded payment on Visa ending 4521
+Yes -- gave case #
+
+Add a row for every call...
+
+Save everything. Screenshots of caller ID, voicemail recordings (if your state allows one-party consent recording), letters, emails, text messages. Each documented contact is a separate violation that can increase your damages.
+
+Why They Keep Calling
+
+In most cases, continued calls happen for one of three reasons:
+
+Processing delay. The creditor has not yet received the court's notice of your filing. This is common in the first 1-2 weeks after filing, especially with large creditors who process thousands of accounts. The calls should stop once the notice reaches them.
+
+Sold debt. Your debt was sold to a collection agency before your filing, and the new collector does not know about your bankruptcy. Telling them your case number usually stops the calls immediately.
+
+Willful disregard. The creditor knows about your bankruptcy and keeps calling anyway. This is the most serious scenario and the one most likely to result in damages.
+
+The reason does not change your rights. Even if the calls are a mistake, the creditor is responsible for stopping collection activity once they have notice. After you tell them your case number, any further contact is hard to characterize as accidental.
+
+When to Take Action
+
+First call after filing: Tell them you filed bankruptcy. Give them your case number. Write it down in your log. This is usually enough to stop a good-faith creditor.
+
+Second call after you told them: Tell them again. This time, add: "I already notified you of my bankruptcy on [date]. This is a second violation of the automatic stay. I am documenting this call." Write it down.
+
+Third call or more: At this point, a pattern is established. You have options:
+
+Notify your bankruptcy attorney (if you have one)
+
+Send a written cease-and-desist letter referencing Section 362 and your case number
+
+File a motion in your bankruptcy court for contempt and damages
+
+Consider consulting a consumer rights attorney -- many take stay violation cases on contingency (they get paid from the damages, not your pocket)
+
+What Damages Look Like
+
+Under Section 362(k), individual debtors injured by a willful stay violation can recover:
+
+Actual damages -- emotional distress, anxiety, lost sleep, time spent dealing with the calls
+
+Attorney fees and costs -- if you hire a lawyer to enforce the stay, the creditor pays, not you
+
+Punitive damages -- for egregious conduct, courts can award additional damages to punish the creditor and deter future violations
+
+Courts have recognized that repeated collection calls to a debtor in bankruptcy cause real emotional harm. You do not need to prove a specific dollar amount lost -- the harassment itself is the injury.
+
+Important for business debtors: Section 362(k) applies to "individual" debtors. If you filed bankruptcy as a business entity (LLC, corporation), the 362(k) damages remedy may not be available to you. The stay still applies -- creditors still cannot collect -- but the enforcement mechanism is different (typically a contempt motion rather than a 362(k) action). Consult an attorney if you are a business debtor experiencing stay violations.
+
+After Your Discharge
+
+If your bankruptcy is complete and you received a discharge, creditors are permanently prohibited from collecting on discharged debts. This is called the discharge injunction under Section 524. If a creditor calls you about a discharged debt, the violation is even more clear-cut.
+
+Learn more about the discharge injunction at dischargeinjunction.org.
+
+Related Resources
+
+The Automatic Stay Explained
+
+Full guide to what the automatic stay stops, how long it lasts, and what happens when creditors violate it.
+
+Read the full guide →
+
+Car Repossessed After Filing?
+
+If a lender took your vehicle after you filed, that may be a separate stay violation with its own remedies.
+
+What to do →
+
+The Discharge Injunction
+
+After your case is complete, creditors are permanently barred from collecting on discharged debts.
+
+Learn more →
+
+Can I File Again?
+
+If your case was dismissed, you may be able to refile -- but the automatic stay rules change for repeat filers.
+
+Check eligibility →
+
+Not Legal Advice. This page provides general information about creditor collection calls and the automatic stay in bankruptcy. It does not constitute legal advice and does not create an attorney-client relationship. Every situation is different. If creditors are continuing to contact you after your bankruptcy filing, consider consulting with a licensed attorney. Many consumer rights attorneys handle stay violation cases on a contingency basis.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+automaticstay.org -- Part of the Open Bankruptcy Project
+
+Free, open-source bankruptcy information. No ads. No lead generation. No strings attached.
+
+Screener
+Research
+341 Meeting
+Means Test
+Pro Se Resources
+Relief from Stay
+♥ Sponsor
+
+Not legal advice. Not affiliated with any law firm or government agency.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+---
+
+## Exceptions to the Automatic Stay -- What Bankruptcy Does NOT Stop
+Source: https://automaticstay.org/exceptions.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+Exceptions to the Automatic Stay
+
+The automatic stay is one of the most powerful protections in bankruptcy, but it is not absolute. Section 362(b) lists more than two dozen exceptions.
+
+Home / Exceptions
+
+The stay does not stop everything
+
+While the automatic stay stops most creditor collection activity, Congress carved out specific exceptions in Section 362(b). These reflect policy decisions that certain proceedings are too important to pause -- criminal justice, child support, public safety, and certain regulatory functions.
+
+If your situation involves one of these exceptions, the stay may not help you. Understanding the boundaries is just as important as understanding the protection.
+
+Criminal proceedings -- Section 362(b)(1)
+
+The automatic stay does not apply to criminal actions or proceedings against the debtor. This means:
+
+Criminal prosecutions continue regardless of the bankruptcy filing
+
+Criminal sentencing proceeds
+
+Probation and parole proceedings are not affected
+
+Criminal contempt proceedings continue
+
+Restitution orders entered as part of a criminal sentence are not stayed
+
+Important distinction: Criminal proceedings are not stayed, but criminal fines that are essentially debt collection may be treated differently. The line between criminal enforcement and debt collection is not always clear and may depend on the specific facts.
+
+Domestic support obligations -- Section 362(b)(2)
+
+The stay does not stop collection of domestic support obligations -- child support and alimony. Specifically:
+
+Establishment of paternity
+
+Establishment or modification of a domestic support order
+
+Collection of domestic support from property that is not property of the estate
+
+Income withholding orders for domestic support
+
+Reporting of overdue support to credit agencies
+
+Interception of tax refunds for domestic support
+
+Enforcement of medical support obligations
+
+Note: While collection of domestic support from non-estate property continues, a creditor still cannot take property that belongs to the bankruptcy estate to satisfy domestic support. The distinction between estate and non-estate property matters here.
+
+Tax audits and assessment -- Section 362(b)(9)
+
+The IRS and state tax agencies can continue to assess taxes during bankruptcy. The stay stops collection, not assessment. This means:
+
+Tax audits can proceed
+
+The IRS can issue statutory notices of deficiency
+
+Tax Court proceedings can continue (though some are also covered by 362(a)(8))
+
+The IRS can demand that you file delinquent tax returns
+
+The IRS can make tax assessments
+
+What the IRS cannot do: levy your wages, seize your bank accounts, place liens on your property, or take any other collection action. Assessment and collection are legally distinct activities.
+
+Certain evictions -- Sections 362(b)(22) and 362(l)
+
+Eviction is one of the most complex areas of the automatic stay. The general rule is that filing bankruptcy pauses eviction proceedings. But BAPCPA added significant exceptions in 2005:
+
+Pre-filing judgment for possession
+
+Under Section 362(b)(22), if the landlord obtained a judgment for possession before the bankruptcy was filed, the stay does not prevent the landlord from proceeding with eviction.
+
+The certification procedure -- Section 362(l)
+
+Even when the landlord has a pre-filing judgment, the debtor may be able to temporarily extend the stay by:
+
+Filing a certification with the bankruptcy petition stating that applicable state law permits the debtor to cure the default after the judgment
+
+Depositing with the court clerk any rent that comes due within 30 days of filing
+
+Actually curing the default within 30 days
+
+If the debtor fails to file the certification, or fails to cure the default within 30 days, the stay terminates and the landlord can proceed.
+
+Illegal substance or endangerment -- Section 362(b)(23)
+
+The stay does not prevent eviction if the landlord's action is based on endangerment of the property or illegal use of controlled substances on the property.
+
+Police and regulatory power -- Section 362(b)(4)
+
+The automatic stay does not apply to actions by a governmental unit to enforce its police or regulatory power. This includes:
+
+Environmental enforcement actions (e.g., EPA cleanup orders)
+
+Health and safety code enforcement
+
+Zoning enforcement
+
+Securities regulation
+
+Consumer protection enforcement by state attorneys general
+
+License revocation proceedings
+
+The test is whether the government is acting in its regulatory capacity to protect public health, safety, or welfare, versus acting as a creditor to collect money. The former is exempt; the latter is stayed.
+
+Other notable exceptions
+
+Pension loan repayments -- Section 362(b)(19)
+
+Withholding from a debtor's income for repayment of a loan from an employer-sponsored pension plan (401(k), 403(b), etc.) is not stayed. The payroll deduction continues during the bankruptcy.
+
+Securities regulatory actions -- Section 362(b)(25)
+
+The SEC and other securities regulators can continue enforcement actions against the debtor.
+
+Setoff by domestic and foreign banks -- Section 362(b)(17)
+
+A swap participant, repo participant, or other financial market participant can exercise certain contractual setoff and netting rights despite the stay.
+
+Presentment of negotiable instruments -- Section 362(b)(11)
+
+The stay does not prevent presentment of a negotiable instrument (like a check) and the giving of notice of dishonor.
+
+The full list: Section 362(b)
+
+Section 362(b) contains 28 subsections listing specific exceptions to the automatic stay. The exceptions described above are the most commonly encountered. For the complete statutory text, see 11 U.S.C. Section 362 at Cornell LII.
+
+If you are uncertain whether a specific action falls within an exception, consult a bankruptcy attorney. The exceptions are narrowly construed -- the stay applies broadly, and exceptions are read narrowly.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## How Long Does the Automatic Stay Last? -- Chapter 7 vs. Chapter 13
+Source: https://automaticstay.org/how-long-does-it-last.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+How Long Does the Automatic Stay Last?
+
+The stay lasts for the duration of your bankruptcy case -- but the duration depends on the chapter you file, whether your case succeeds, and whether any creditor obtains relief.
+
+Home / Duration
+
+Duration by chapter
+
+Chapter
+Typical stay duration
+What ends it
+
+Chapter 7
+3-6 months
+Discharge or case closure
+
+Chapter 13
+3-5 years
+Discharge, dismissal, or plan completion
+
+Chapter 11
+Varies widely (months to years)
+Plan confirmation and substantial consummation, or dismissal
+
+Chapter 12
+3-5 years
+Discharge, dismissal, or plan completion
+
+Chapter 7: A few months of protection
+
+Chapter 7 is a liquidation bankruptcy. The case is typically open for 3-6 months. During that time, the automatic stay protects you from all collection activity.
+
+Timeline
+
+Filing day: Automatic stay takes effect immediately
+
+341 meeting: Held 20-40 days after filing. The stay continues.
+
+60-day deadline: Creditors have 60 days after the 341 meeting to object to discharge
+
+Discharge: Typically entered about 60-90 days after filing. At this point, the stay is replaced by the discharge injunction for discharged debts.
+
+Case closure: The stay terminates for any remaining matters
+
+What happens at discharge: For debts that are discharged, the automatic stay transforms into the discharge injunction under Section 524. This is permanent -- creditors can never attempt to collect a discharged debt, for the rest of your life. The discharge injunction is even stronger than the stay because it has no expiration date.
+
+Chapter 13: Years of protection
+
+Chapter 13 is a reorganization bankruptcy with a repayment plan lasting 3-5 years. The automatic stay protects you for the entire plan period, as long as your case remains open.
+
+Timeline
+
+Filing day: Automatic stay takes effect immediately
+
+341 meeting: Held 20-40 days after filing
+
+Plan confirmation: Usually within 3-6 months of filing
+
+Plan payments: 36-60 months of payments through the trustee
+
+Discharge: Entered after all plan payments are completed. The discharge injunction replaces the stay for discharged debts.
+
+During the entire plan period, creditors cannot pursue collection activity outside the plan. This is one of the key advantages of Chapter 13 -- years of breathing room to catch up on mortgage arrears, car payments, and priority debts.
+
+What ends the stay early
+
+Dismissal
+
+If your case is dismissed -- whether voluntarily or involuntarily -- the automatic stay terminates immediately. All creditors are free to resume collection activity. There is no grace period.
+
+Dismissal is the worst outcome. You get no discharge. Creditors resume where they left off. And if you re-file within a year, your automatic stay will be limited under Sections 362(c)(3) or 362(c)(4).
+
+Relief from stay
+
+If a creditor obtains a court order lifting the stay (a motion for relief from stay), the stay terminates as to that specific creditor and property. The stay continues for everything else.
+
+Conversion
+
+If your case is converted from one chapter to another (e.g., Chapter 13 to Chapter 7), the automatic stay continues. However, the nature of the case changes, and the stay's duration resets based on the new chapter's timeline.
+
+Property abandoned by the trustee
+
+When the trustee abandons property (determines it has no value to the estate), the stay as to that property terminates. The property returns to the debtor, but creditors with liens on that property can now enforce them.
+
+The discharge injunction: what replaces the stay
+
+When you receive a discharge, the automatic stay does not just disappear. For debts that are discharged, it is replaced by the discharge injunction under 11 U.S.C. Section 524.
+
+Key differences between the stay and the discharge injunction
+
+Feature
+Automatic stay (Section 362)
+Discharge injunction (Section 524)
+
+Duration
+Temporary -- lasts during the case
+Permanent -- lasts forever
+
+Scope
+All debts and all creditors
+Only discharged debts
+
+Private right of action
+Yes -- Section 362(k)
+No explicit statutory remedy (enforced through contempt power)
+
+Applies to
+Pre-petition and some post-petition actions
+Only pre-petition debts that were discharged
+
+Section 524(a)(2): The discharge "operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor."
+
+What happens to non-dischargeable debts
+
+When the stay ends, debts that are not discharged lose all protection. Creditors holding non-dischargeable debts can resume collection immediately. Common non-dischargeable debts include:
+
+Most student loans (absent undue hardship determination)
+
+Certain taxes (generally recent income taxes less than 3 years old)
+
+Domestic support obligations (child support, alimony)
+
+Debts arising from fraud, willful injury, or drunk driving
+
+Criminal restitution
+
+Debts not listed in the bankruptcy schedules (in some cases)
+
+For these debts, the automatic stay provides temporary relief, but the underlying obligation survives the bankruptcy.
+
+Repeat filer limitations
+
+If your prior case was dismissed, the duration of your automatic stay in a new case may be severely limited:
+
+One prior dismissal within 1 year: Stay lasts only 30 days under Section 362(c)(3)
+
+Two or more prior dismissals within 1 year: No stay at all under Section 362(c)(4)
+
+In both cases, you can file a motion asking the court to extend or impose the stay, but you must demonstrate good faith.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+---
+
+## 11 USC 362 Automatic Stay -- Bankruptcy Protection Guide [2026]
+Source: https://automaticstay.org/
+
+🌐 Esta pagina esta disponible en Espanol
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+EN / ES
+
+Part of the Open Bankruptcy Project -- 75+ free domains, 2,000+ pages, $0 cost
+
+11 USC 362 Automatic Stay in Bankruptcy
+
+The moment you file a bankruptcy petition, most collection activity must stop. No hearing required. No judge's signature needed. It happens instantly, by operation of law, under 11 U.S.C. Section 362.
+
+What It Stops
+Know Your Rights
+
+Based on 11 U.S.C. Section 362 -- the most immediate protection in the Bankruptcy Code
+
+If you are being harassed, garnished, foreclosed on, or repossessed
+
+Take a breath. There is a federal law designed exactly for this moment.
+
+The automatic stay is a court order that takes effect the instant your bankruptcy petition is filed with the clerk's office. It orders every creditor in the country to stop. Stop calling. Stop suing. Stop garnishing. Stop foreclosing. Stop repossessing.
+
+They do not get a choice. They do not get to finish what they started. The law says stop, and if they do not stop, they can be held in contempt of federal court and ordered to pay you damages.
+
+How it works: You file a bankruptcy petition. At that exact moment -- not when the creditor finds out, not when a judge reviews it, but at the moment the clerk stamps it -- the stay is in effect. It covers virtually all collection activity against you and your property.
+
+What the automatic stay stops
+
+Collection calls and letters -- Creditors and debt collectors must cease all contact
+
+Lawsuits -- Pending lawsuits against you are frozen; new ones cannot be filed
+
+Wage garnishment -- Your employer must stop withholding garnished wages
+
+Foreclosure -- Scheduled foreclosure sales are halted
+
+Repossession -- Creditors cannot take your car, equipment, or other property
+
+Utility disconnection -- Utilities cannot shut off service for at least 20 days
+
+Bank account levies -- Creditors cannot freeze or drain your bank accounts
+
+Tax collection -- The IRS and state tax agencies must pause collection efforts
+
+Eviction proceedings -- Most eviction cases are paused (with some exceptions)
+
+See the complete list, organized by creditor type →
+
+What happens when creditors violate it
+
+A creditor who continues collection activity after your bankruptcy is filed is violating a federal court order. Under Section 362(k), individuals can recover:
+
+Actual damages -- including emotional distress in many circuits
+
+Attorney fees and costs
+
+Punitive damages -- in appropriate circumstances
+
+Common violations: a car lender repossesses your vehicle after filing. A debt collector keeps calling. Your employer continues garnishing wages. A bank freezes your account.
+
+Learn what to do if a creditor violates the stay →
+
+Explore the automatic stay
+
+What It Covers
+
+Lawsuits, garnishments, foreclosures, repossessions, phone calls, utility shutoffs -- organized by creditor type.
+
+Read more →
+
+Violations and Damages
+
+What counts as a violation, what to do about it, and the damages available under Section 362(k).
+
+Read more →
+
+Exceptions
+
+Criminal proceedings, domestic support, tax audits, certain evictions. The stay is powerful, but not absolute.
+
+Read more →
+
+Repeat Filer Limits
+
+BAPCPA's 2005 changes: the 30-day stay under 362(c)(3), the no-stay rule under 362(c)(4), and how to get protection restored.
+
+Read more →
+
+Motion for Relief
+
+When and why creditors ask the court to lift the stay, and how to oppose it.
+
+Read more →
+
+How Long Does It Last?
+
+Chapter 7 vs. Chapter 13 duration. What happens when a case is dismissed. When the stay ends.
+
+Read more →
+
+The statute: 11 U.S.C. Section 362
+
+Section 362(a): "Except as provided in subsection (b) of this section, a petition filed under section 301, 302, or 303 of this title ... operates as a stay, applicable to all entities, of --"
+
+The subsection then lists eight categories of prohibited activity, covering virtually every type of collection action a creditor can take.
+
+The automatic stay has been part of the Bankruptcy Code since the Bankruptcy Reform Act of 1978. It was significantly modified by the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA), which added the repeat filer limitations under Sections 362(c)(3) and 362(c)(4).
+
+The private right of action for willful violations under Section 362(k) -- allowing individual debtors to recover actual damages, attorney fees, and punitive damages -- remains one of the strongest enforcement mechanisms in bankruptcy law.
+
+Frequently asked questions
+
+Does the automatic stay apply to all creditors?
+
+Yes. The stay applies to every creditor, whether they know about the filing or not. Once the petition is filed, the stay is in effect as a matter of law. A creditor who acts in ignorance of the filing may not face sanctions for a willful violation, but the action itself is still void or voidable.
+
+Do I need to tell my creditors I filed?
+
+The court sends formal notice to all creditors listed in your petition. However, if a creditor is actively pursuing you -- calling, garnishing, about to foreclose -- you or your attorney should notify them immediately. Providing the case number and filing date puts them on clear notice.
+
+Can a creditor repossess my car after I file?
+
+No. If you file bankruptcy before the creditor takes possession, they must stop. If they repossess after filing, they are violating the automatic stay and may be required to return the vehicle and pay damages. Even if repossession was in progress, the stay freezes it.
+
+Does the automatic stay stop an eviction?
+
+In most cases, yes -- at least temporarily. However, there are exceptions. If your landlord already obtained a judgment for possession before you filed, the stay may not apply. See exceptions to the automatic stay for details.
+
+What if I filed bankruptcy before and it was dismissed?
+
+If your prior case was dismissed within the past year, the automatic stay in your new case lasts only 30 days under Section 362(c)(3). If two or more cases were dismissed in the past year, you get no automatic stay at all under Section 362(c)(4). In both situations, you can file a motion asking the court to extend or impose the stay. See repeat filer limits.
+
+What is the automatic stay in bankruptcy?
+
+The automatic stay is a federal injunction under 11 U.S.C. Section 362 that takes effect the instant a bankruptcy petition is filed. It immediately halts all creditor collection activity, including lawsuits, foreclosures, repossessions, wage garnishments, and collection calls. No court hearing or judge's order is required for it to take effect.
+
+What does the automatic stay stop?
+
+The automatic stay stops foreclosure sales, vehicle repossession, wage garnishment, bank account levies, debt collection lawsuits, collection phone calls and letters, utility disconnection for 20 days, and IRS or state tax collection actions. It applies to virtually all creditors from the moment the bankruptcy petition is filed with the court.
+
+Does the automatic stay stop foreclosure?
+
+The automatic stay stops foreclosure immediately upon filing. Even if a foreclosure sale is scheduled for the same day, filing the bankruptcy petition before the sale halts the process. In Chapter 13, debtors can cure mortgage arrears through a repayment plan while keeping the home. In Chapter 7, the stay delays but does not permanently prevent foreclosure.
+
+Does the automatic stay stop wage garnishment?
+
+The automatic stay stops wage garnishment immediately when the bankruptcy petition is filed. The debtor or attorney should notify the employer and the garnishing creditor of the filing. Any wages garnished after the petition date must be returned. The employer must stop withholding once notified, and continued garnishment is a willful stay violation.
+
+How long does the automatic stay last?
+
+For first-time filers, the automatic stay lasts the entire duration of the bankruptcy case until discharge, dismissal, or case closure. In Chapter 7, that is typically three to six months. In Chapter 13, the stay continues for the three-to-five-year plan period. Repeat filers face reduced protection under Sections 362(c)(3) and 362(c)(4).
+
+What happens if a creditor violates the automatic stay?
+
+Under 11 U.S.C. Section 362(k), an individual debtor injured by a willful stay violation can recover actual damages, costs, attorney fees, and in appropriate circumstances, punitive damages. Common violations include continuing collection calls after filing, repossessing a vehicle post-petition, or garnishing wages after the case number has been assigned.
+
+Can a creditor get relief from the automatic stay?
+
+A creditor can file a motion for relief from stay under 11 U.S.C. Section 362(d), asking the court to lift the stay for a specific debt or asset. Common grounds include lack of adequate protection of the creditor's interest, no equity in the property, and the property not being necessary for an effective reorganization. The court holds a hearing and decides.
+
+Related Topics
+
+Relief from Stay
+Serial Filing Limits
+The Codebtor Stay
+Section 362 Stay
+
+Official Statute Text and Authority Sources
+
+The automatic stay is codified at 11 U.S.C. Section 362 (Title 11, United States Code). The full statutory text is available from these authoritative sources:
+
+11 U.S.C. Section 362 -- Cornell Law Institute (LII) -- Full text with annotations and cross-references
+
+11 USC 362 -- U.S. House Office of Law Revision Counsel -- Official statutory text
+
+Bankruptcy Basics -- USCourts.gov -- Plain-language overview from the federal judiciary
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Related Resources
+
+Relief from Stay -- When and how creditors can lift the automatic stay
+
+Serial Filing Limits -- Automatic stay limits and filing bars for repeat filers
+
+The Codebtor Stay -- Section 1301 protection for co-signers in Chapter 13
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Your Next Questions
+
+Real users ask these next -- we built the answers.
+
+Chapter 7 vs Chapter 13
+
+Filing stops most collection actions immediately
+
+chapter7vs13.org →
+
+How to File Bankruptcy
+
+The step-by-step process from start to discharge
+
+howtofilebankruptcy.org →
+
+Exemptions by State
+
+What property creditors cannot take
+
+bankruptcyexemptionsbystate.com →
+
+File Without a Lawyer?
+
+Pro se filing: risks, process, and when it makes sense
+
+filebankruptcywithoutlawyer.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+📖 Bankruptcy Glossary -- 61 terms explained
+
+Filing in Your State?
+
+Exemptions vary dramatically by state. Check what you can protect.
+
+Browse Your State's Exemptions →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+Espanol
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+---
+
+## Motion for Relief from Stay -- When Creditors Ask the Court to Lift the Stay -- Automatic Stay
+Source: https://automaticstay.org/motion-for-relief.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+Motion for Relief from Stay
+
+Creditors can ask the court to lift the automatic stay. Understanding when, why, and how to fight it is essential to protecting your assets.
+
+Home / Relief from Stay
+
+What is a motion for relief from stay?
+
+A motion for relief from stay is a formal request by a creditor asking the bankruptcy court to lift the automatic stay so the creditor can proceed with collection or enforcement against you or your property.
+
+Relief from stay is the most common contested motion in bankruptcy court. If you have a car loan, a mortgage, or any secured debt, there is a good chance a creditor will file one during your case.
+
+If the court grants the motion, that specific creditor can proceed as if no bankruptcy had been filed -- but only for the property or debt covered by the order. The stay remains in effect for everything else.
+
+The four grounds: Section 362(d)
+
+362(d)(1) -- "For cause, including the lack of adequate protection"
+
+The most common ground. "Cause" is intentionally broad and undefined. The most frequent basis is lack of adequate protection -- the creditor's collateral is losing value, and the debtor is not compensating for that loss.
+
+Examples:
+
+A car is depreciating and the debtor is not making payments
+
+A house is uninsured or falling into disrepair
+
+The debtor has no plan to pay the secured creditor
+
+Equipment is being used and wearing out without payment
+
+Adequate protection can take several forms: periodic cash payments to the creditor, an additional or replacement lien, or other relief that gives the creditor the "indubitable equivalent" of its interest in the property.
+
+362(d)(2) -- No equity AND not necessary for reorganization
+
+The creditor must prove both elements:
+
+The debtor has no equity in the property (the debt exceeds the value), AND
+
+The property is not necessary for an effective reorganization (Chapter 11/13) or is not necessary for the debtor (Chapter 7)
+
+If the debtor has even a small amount of equity, this ground fails. If the property is necessary for the debtor's reorganization (e.g., the debtor's only car needed to get to work), this ground also fails even if there is no equity.
+
+362(d)(3) -- Single-asset real estate
+
+In a "single asset real estate" case (typically an entity that owns one piece of real property), the court must grant relief unless the debtor has filed a plan with a reasonable possibility of being confirmed, or has begun making interest payments to the creditor, within 90 days of the filing or within 30 days after the court determines the case is a single asset real estate case.
+
+362(d)(4) -- Scheme to delay
+
+The court must grant relief if it finds the filing is part of a scheme to delay, hinder, or defraud creditors that involved the transfer of the property without the secured creditor's consent. This typically arises when property is transferred between entities that file successive bankruptcies.
+
+What happens at the hearing
+
+The court must act on a motion for relief from stay within 30 days under Section 362(e). If the court does not rule within 30 days after the motion is requested, the stay is automatically terminated as to the movant.
+
+The timeline
+
+Creditor files the motion and serves it on the debtor and trustee
+
+Debtor has a deadline to respond -- typically 14-21 days under local rules
+
+Hearing is held -- the court hears arguments and evidence from both sides
+
+Court rules -- grants the motion, denies it, or continues the stay with conditions (such as requiring the debtor to make adequate protection payments)
+
+Burden of proof
+
+Under Section 362(g):
+
+-- The creditor has the burden of proof on the issue of the debtor's equity in the property
+
+-- The debtor has the burden of proof on all other issues
+
+This means the debtor must prove adequate protection, that the property is necessary for reorganization, and good faith.
+
+How to oppose a motion for relief from stay
+
+If you are in Chapter 13
+
+Show your plan addresses the debt. If your plan provides for current payments plus cure of the arrearage, that is usually adequate protection
+
+Be current on plan payments. A debtor who is behind on plan payments has a much harder time opposing relief from stay
+
+Maintain insurance. An uninsured vehicle or uninsured home is a strong basis for relief
+
+Show the property is necessary. Your car gets you to work. Your home is where you live. These are necessary for reorganization.
+
+If you are in Chapter 7
+
+Chapter 7 does not involve a reorganization plan, so the "necessary for reorganization" prong is harder to argue
+
+If you want to keep the property, showing equity helps
+
+In practice, many Chapter 7 debtors negotiate a reaffirmation agreement rather than opposing the motion
+
+Practical steps
+
+File a written response within the deadline. Silence is treated as consent in many courts.
+
+Gather evidence: proof of insurance, payment history, property valuation, evidence of your plan's feasibility
+
+Attend the hearing. If you do not appear, the court will likely grant the motion by default.
+
+Offer adequate protection. Even if you are behind, offering to make current payments going forward (plus a catch-up amount) can defeat the motion.
+
+Conditional orders and agreed orders
+
+Many relief from stay motions are resolved by agreement. Common outcomes:
+
+Agreed order: The debtor agrees to make specific payments on a schedule, and the stay remains in effect as long as the debtor complies. If the debtor defaults, the stay lifts automatically.
+
+Conditional order: The court continues the stay but imposes conditions -- adequate protection payments, proof of insurance, or a deadline to file a plan.
+
+Drop-dead order: The stay continues but terminates automatically on a specific date or upon a specific default, without further motion or hearing.
+
+Be careful with agreed orders. If you agree to terms you cannot meet, the stay will lift automatically when you default, and you will not get a second hearing. Only agree to terms you can realistically honor.
+
+In rem relief: 362(d)(4)
+
+When the court grants relief under 362(d)(4) based on a scheme to delay involving property transfers, the court can enter an order that is binding in rem -- meaning it attaches to the property, not just the debtor. This prevents any subsequent debtor from getting the benefit of the stay on that property for two years.
+
+This is an aggressive tool used against serial filing schemes where property is transferred between entities (or between spouses) to trigger successive stays.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Automatic Stay Limits for Repeat Filers -- 362(c)(3) and 362(c)(4)
+Source: https://automaticstay.org/serial-filer-limits.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+Automatic Stay Limits for Repeat Filers
+
+If your prior bankruptcy was dismissed, your automatic stay may be limited to 30 days -- or may not apply at all. Here is how to get protection restored.
+
+Home / Repeat Filer Limits
+
+Why repeat filers get less protection
+
+Before 2005, the automatic stay applied fully to every bankruptcy filing, regardless of how many times a person had filed before. Some debtors -- or, more accurately, some attorneys acting on behalf of debtors -- exploited this by filing bankruptcy petitions purely to trigger the stay and delay foreclosure or repossession, then allowing the case to be dismissed, and filing again when the next sale was scheduled.
+
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) addressed this by adding Sections 362(c)(3) and 362(c)(4), which limit the automatic stay for debtors with recently dismissed cases.
+
+The three tiers of automatic stay protection
+
+Scenario
+Statute
+Stay duration
+What to do
+
+First filing (no dismissed case in prior year)
+362(a)
+Full stay -- lasts for the duration of the case
+Nothing extra required
+
+One prior dismissal within 1 year
+362(c)(3)
+30 days only, then expires
+File motion to extend within 30 days; show good faith
+
+Two or more prior dismissals within 1 year
+362(c)(4)
+No stay at all
+File motion to impose stay within 30 days; show good faith as to each creditor
+
+Section 362(c)(3) -- The 30-day stay
+
+If you had one bankruptcy case that was pending within the one-year period before your new filing and that case was dismissed, the automatic stay in your new case terminates on the 30th day after filing, unless the court extends it.
+
+How to extend the stay
+
+File a motion to extend the stay as early as possible -- ideally at the same time as your petition, but no later than 30 days after filing
+
+Request a hearing within the 30-day period. The court must conclude the hearing within the 30 days (some courts interpret this differently)
+
+Demonstrate good faith. You must show the new case was filed in good faith with respect to the creditors to be stayed
+
+Presumption of bad faith: There is a rebuttable presumption that the new case was NOT filed in good faith if:
+
+-- The prior case was dismissed for failure to file required documents, amend the petition, attend the 341 meeting, pay fees, or comply with a court order
+
+-- There has been no substantial change in the debtor's financial or personal affairs since the dismissal
+
+-- The prior case was dismissed after the debtor failed to perform the terms of a plan confirmed by the court
+
+You must rebut this presumption by clear and convincing evidence.
+
+What "clear and convincing evidence" looks like
+
+A genuine change in financial circumstances (new job, medical recovery, resolved the issue that caused the prior dismissal)
+
+The prior dismissal was due to an attorney error or procedural mistake, not bad faith
+
+You can show you have the ability and intention to complete the new case
+
+The new filing has a legitimate bankruptcy purpose beyond delaying creditors
+
+Section 362(c)(4) -- No automatic stay
+
+If two or more bankruptcy cases were pending within the one-year period before your new filing and those cases were dismissed, no automatic stay takes effect at all when you file the new case.
+
+This is the harshest provision. Creditors can continue all collection activity as if no bankruptcy was filed.
+
+How to get the stay imposed
+
+File a motion within 30 days of the new filing asking the court to impose the stay
+
+Demonstrate that the new filing is in good faith as to each creditor you want the stay to cover
+
+The same presumption of bad faith applies, and you must rebut it by clear and convincing evidence
+
+Key difference from 362(c)(3): Under 362(c)(4), you are asking the court to impose a stay that does not otherwise exist. Under 362(c)(3), you are asking the court to extend a stay that exists for 30 days. The burden on the debtor is effectively the same, but the practical difference is significant -- under 362(c)(4), creditors have free rein until the court acts.
+
+A circuit split: does 362(c)(3) terminate the stay entirely?
+
+There is a significant split among bankruptcy courts and circuit courts on what Section 362(c)(3) actually does after 30 days. Two competing interpretations:
+
+Full termination view
+
+The stay terminates in its entirety after 30 days -- no protection remains. This is the majority view.
+
+Partial termination view
+
+The stay terminates only as to the debtor and the debtor's property, but continues as to property of the estate. Under this view, estate property retains some protection even after the 30-day period.
+
+Check the law in your district. This distinction can matter significantly for homeowners and vehicle owners.
+
+Practical advice for repeat filers
+
+File the extension motion immediately. Do not wait. Many courts require the hearing to be held within 30 days. If you wait too long, you may lose the ability to get the stay extended.
+
+If you know you had a prior dismissal, prepare the extension motion before you file the new case
+
+Gather evidence of changed circumstances -- new employment, resolved medical issue, corrected the procedural problem that caused the prior dismissal
+
+Be specific about what is different this time and why the new case will succeed
+
+If a specific creditor is threatening immediate action (foreclosure sale, repossession), highlight the urgency in your motion
+
+BAPCPA's impact on the automatic stay
+
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 was the most significant overhaul of the Bankruptcy Code in a generation. Among its changes to the automatic stay:
+
+362(c)(3) -- 30-day stay limit for one prior dismissal within a year
+
+362(c)(4) -- No stay for two or more prior dismissals within a year
+
+362(b)(22)-(23) -- Expanded eviction exceptions
+
+362(l) -- Certification procedure for debtors facing eviction
+
+These provisions were intended to prevent abuse of the bankruptcy system by serial filers. In practice, they also affect debtors who had legitimate cases dismissed for procedural reasons -- a missed deadline, a document not filed, an attorney error -- and are now penalized when they re-file.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Serial Filer Stay Limitation -- Repeat Filing Restrictions -- Automatic Stay
+Source: https://automaticstay.org/serial-filer-stay-limitation.html
+
+automaticstay.org
+☰
+
+Home
+How It Works
+Violations
+FAQ
+
+Serial Filer Stay Limitation -- Repeat Filing Restrictions
+
+How repeat bankruptcy filings limit the automatic stay. 30-day stay for second filing within a year, no stay for third filing, and how to extend protection.
+
+Home › Serial Filer Stay Limitation -- Repeat Filing Restrictions
+
+Serial Filer Stay Restrictions
+
+If you have had a prior bankruptcy case dismissed within the past year, the automatic stay in your new case is limited:
+
+SituationAutomatic Stay DurationHow to Extend
+
+One prior case dismissed within 1 year30 daysFile motion within 30 days showing new case filed in good faith
+
+Two or more cases dismissed within 1 yearNo stay at allFile motion showing good faith -- burden is on debtor
+
+These restrictions come from Section 362(c)(3) and (c)(4), added by BAPCPA in 2005 to prevent abuse through serial filings.
+
+How to Get the Stay Extended or Imposed
+
+File a motion early: If you had a prior dismissal, file a motion to extend the stay (or impose it) within 30 days of filing your new case
+
+Show good faith: Demonstrate that the new case is filed in good faith -- changed circumstances, ability to complete the case, and the prior dismissal was not for abuse
+
+Common good faith factors: New employment, resolved the issue that caused prior dismissal, completion of credit counseling, change in financial situation
+
+Bankruptcy Tools Network:
+
+Discharge Screener ·
+Research Platform ·
+Exemptions by State ·
+Keep Your Car ·
+Keep Your House ·
+Bankruptcy Cost ·
+File Without a Lawyer ·
+Rebuild Credit ·
+Buy a House After ·
+Buy a Car After
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+How It Works ·
+Violations ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Relief from Automatic Stay -- relieffromstay.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## When Creditors Violate the Automatic Stay -- Your Rights Under Section 362(k)
+Source: https://automaticstay.org/violations.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+When Creditors Violate the Automatic Stay
+
+If a creditor continues collection activity after you file bankruptcy, they are violating a federal court order. You have the right to damages.
+
+Home / Violations
+
+The stay is not a suggestion -- it is a court order
+
+When you file bankruptcy, the automatic stay under Section 362 is not a polite request. It is a federal injunction that binds every creditor, collection agency, and lender in the country. A creditor who ignores it is in contempt of court.
+
+Congress specifically gave individual debtors a private right of action to enforce the stay. Under Section 362(k)(1):
+
+11 U.S.C. Section 362(k)(1): "... an individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys' fees, and, in appropriate circumstances, may recover punitive damages."
+
+This means you do not have to wait for the court to act. You can bring the violation to the court's attention and seek compensation for the harm caused.
+
+Common violations
+
+Continued collection calls
+
+The single most common stay violation. A debt collector or creditor continues calling you after the bankruptcy is filed. Every call after they have notice of the filing is a separate willful violation. Save voicemails, screenshot call logs, and note dates and times.
+
+Repossession after filing
+
+A car lender sends a tow truck after your petition is on file. This is a clear stay violation. The creditor must return the vehicle and may owe you damages. Courts have ordered return of vehicles and awarded thousands in damages and fees for post-petition repossession.
+
+Wage garnishment after filing
+
+Your employer continues withholding wages after the bankruptcy is filed. In practice, the employer is usually acting on the creditor's garnishment order -- notify both the employer and the creditor. If the creditor fails to release the garnishment after notice, it is a willful violation.
+
+Foreclosure sale after filing
+
+A mortgage lender proceeds with a foreclosure sale despite the pending bankruptcy. The sale is void (or voidable, depending on the jurisdiction), and the lender faces liability for damages.
+
+Bank account freeze or levy
+
+A bank freezes your account or allows a creditor to levy funds after the filing date. The bank may also be liable if it is on notice of the bankruptcy and does nothing to prevent the levy.
+
+Filing or continuing a lawsuit
+
+A creditor files a new collection lawsuit, or continues prosecuting an existing one, after the bankruptcy is filed. Any judgment obtained in violation of the stay is void.
+
+Sending collection letters or demand notices
+
+A creditor mails a collection letter, past-due notice, or threat of legal action after the filing. This is a stay violation even if the letter was "already in the mail" -- the creditor has an obligation to halt all automated and manual collection processes.
+
+What makes a violation "willful"
+
+Under Section 362(k), damages are available for willful violations. The standard is:
+
+The creditor knew about the bankruptcy filing, and
+
+The creditor intentionally took the collection action
+
+The creditor does not need to have specifically intended to violate the stay. If they knew you filed and deliberately continued collecting, the violation is willful. This is the standard in most circuits.
+
+Knowledge matters: If a creditor genuinely did not know about the filing and took action, the action still violates the stay (and is void), but the creditor may not face sanctions for a "willful" violation. This is why it is critical to notify creditors as soon as possible after filing.
+
+Damages available under Section 362(k)
+
+Actual damages
+
+This includes any economic harm caused by the violation: lost wages, out-of-pocket costs, towing and storage fees (for repossession), bank fees, and the cost of dealing with the violation.
+
+Emotional distress damages
+
+Many courts, including several circuit courts of appeals, have held that emotional distress is recoverable as "actual damages" under 362(k). The debtor typically must present more than a bare assertion -- testimony about anxiety, lost sleep, stress, or health impacts. Medical evidence helps but is not always required.
+
+Attorney fees and costs
+
+The statute explicitly provides for recovery of costs and attorney fees. This is important because it means you can hire a lawyer to pursue a stay violation without worrying about paying more in legal fees than you recover. The violating creditor pays your attorney.
+
+Punitive damages
+
+In "appropriate circumstances," the court can award punitive damages. These are typically reserved for egregious, repeated, or reckless violations -- a creditor who is warned and keeps going, a lender who has a pattern of stay violations, or a large company that has no compliance procedures.
+
+What to do if your stay is being violated
+
+Document everything. Save every letter, voicemail, text message, and email. Screenshot call logs. Note dates and times. Keep copies of bank statements showing levies or garnishment deductions.
+
+Notify the creditor in writing. Send a letter or email stating: "I filed a Chapter [7/13] bankruptcy petition on [date], case number [number], in the [district] bankruptcy court. The automatic stay is in effect under 11 U.S.C. Section 362. Cease all collection activity immediately."
+
+Notify your attorney. If you have one. If you are pro se, you can file a motion yourself.
+
+File a motion for contempt and damages. Your attorney (or you, if pro se) files a motion in the bankruptcy court under Section 362(k), describing the violation and requesting damages, fees, and costs.
+
+Do not ignore it. Stay violations do not resolve themselves. A creditor who gets away with one violation will often escalate.
+
+Actions that are void vs. voidable
+
+Courts are split on whether actions taken in violation of the automatic stay are void (automatically invalid, as if they never happened) or voidable (invalid only if the court so orders). The practical difference:
+
+Void: A foreclosure sale conducted after filing is a nullity. The debtor does not need a court order to undo it -- it simply did not happen. (Majority view in most circuits.)
+
+Voidable: The action is presumed invalid, but the creditor can argue the court should allow it to stand. The debtor must bring a motion to formally void it.
+
+Regardless of which view your circuit follows, the stay violation gives rise to damages under 362(k).
+
+Stay violations by government entities
+
+Section 362(k) applies to "an individual injured by any willful violation." The statute authorizes damages for individual debtors. Corporate debtors must rely on the court's contempt power rather than the private right of action.
+
+Government entities are subject to the automatic stay but have been held by some courts to have sovereign immunity from damages under 362(k). The Supreme Court addressed this in Tennessee Student Assistance Corp. v. Hood (2004), holding that the bankruptcy court's in rem jurisdiction can override state sovereign immunity in some contexts, but the availability of monetary damages against government entities remains inconsistent across circuits.
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## What the Automatic Stay Covers -- Lawsuits, Garnishments, Foreclosures, Repossessions
+Source: https://automaticstay.org/what-it-covers.html
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+What the Automatic Stay Covers
+
+The moment you file, virtually all creditor collection activity must stop. Here is exactly what that means, organized by what your creditors are doing to you.
+
+Home / What It Covers
+
+Mortgage lenders and foreclosure
+
+If your home is in foreclosure -- or a foreclosure sale is scheduled -- filing bankruptcy stops it. The automatic stay under Section 362(a)(3) and 362(a)(4) prohibits any act to obtain possession of property of the estate or to enforce a lien against it.
+
+Scheduled foreclosure sales are halted immediately
+
+The lender cannot proceed with a sheriff's sale or trustee's sale
+
+Pre-foreclosure collection activity must stop
+
+In Chapter 13, you can cure your mortgage arrearage over 3-5 years while keeping the home
+
+In Chapter 7, the stay delays foreclosure but does not provide a long-term cure mechanism
+
+Timing matters: The stay takes effect at the moment of filing. If the foreclosure sale happens before you file, the stay does not reverse it. If you file even minutes before the sale, the sale cannot proceed.
+
+Car lenders and repossession
+
+Section 362(a)(3) prohibits any act to obtain possession of property of the estate. Your car is property of the estate. That means:
+
+The lender cannot repossess your vehicle after you file
+
+If a tow truck is on its way, filing stops the repossession
+
+The lender cannot call to demand you surrender the vehicle
+
+If the lender repossesses after filing, they may be ordered to return it
+
+If your car was already repossessed: If repossession happened before filing, the situation is more complex. In some cases, filing bankruptcy can force the return of the vehicle if the creditor has not yet sold it. Timing and local practice matter -- consult an attorney.
+
+Section 362(a)(3): The stay applies to "any act to obtain possession of property of the estate or of property from the estate or to exercise control over property of the estate."
+
+Employers and wage garnishment
+
+If your wages are being garnished for credit card debt, medical bills, personal loans, or a lawsuit judgment, the automatic stay stops the garnishment.
+
+Your employer must stop withholding garnished wages once notified of the bankruptcy
+
+This applies to judgments, default judgments, and agreed garnishment orders
+
+The stay covers garnishments by private creditors, collection agencies, and in most cases, tax authorities
+
+Exception -- domestic support: Garnishments for child support and alimony are not stopped by the automatic stay. These are exempt under Section 362(b)(2).
+
+Debt collectors and collection agencies
+
+The automatic stay means silence. Under Section 362(a)(6), the stay prohibits "any act to collect, assess, or recover a claim against the debtor that arose before the commencement of the case." That includes:
+
+Phone calls demanding payment
+
+Collection letters and demand notices
+
+Emails and text messages about the debt
+
+Reporting new derogatory information to credit bureaus (debated across circuits, but many courts find this is a stay violation)
+
+Threats of legal action
+
+Contact with your employer, family, or references about the debt
+
+This is immediate. The creditor does not need to receive your bankruptcy notice for the stay to apply. The stay is in effect from the moment of filing. However, a creditor who acts without knowledge of the filing may not face sanctions for a "willful" violation under 362(k).
+
+Lawsuits and judgments
+
+Section 362(a)(1) stays "the commencement or continuation ... of a judicial, administrative, or other action or proceeding against the debtor." This means:
+
+Pending lawsuits against you are frozen -- no hearings, no motions, no trial
+
+New lawsuits cannot be filed against you for pre-petition debts
+
+Judgment creditors cannot execute on existing judgments
+
+Creditors cannot record judgment liens against your property
+
+Discovery and depositions are halted
+
+The stay applies in state courts, federal courts, and administrative proceedings. The only major exceptions are criminal proceedings and domestic relations cases.
+
+Banks and account levies
+
+If a creditor has obtained a judgment and is levying your bank account -- or threatening to -- the automatic stay stops it.
+
+Banks must release frozen funds (though this may require a court order or motion in practice)
+
+Creditors cannot serve new writs of execution or garnishment on your bank
+
+Setoff rights are also stayed under Section 362(a)(7), meaning a bank that holds both your deposit account and a loan cannot seize your deposits to pay the loan
+
+Utility companies
+
+Section 366 provides specific protection for utility services. Utilities cannot disconnect service for 20 days after the bankruptcy petition is filed, even if you owe a past-due balance.
+
+Electric, gas, water, and phone service cannot be shut off for 20 days
+
+After 20 days, the utility can require a deposit or other adequate assurance of future payment
+
+The utility cannot require you to pay pre-petition arrears as a condition of continued service
+
+Landlords and eviction
+
+The automatic stay generally pauses eviction proceedings, but this area has important exceptions:
+
+If no eviction judgment has been entered, the stay halts the eviction case
+
+If the landlord already obtained a judgment for possession before filing, the stay may not apply under Section 362(b)(22)
+
+In residential leases, the debtor may extend protection by filing a certification and depositing rent with the court clerk
+
+Commercial lease evictions are stayed under the general rules
+
+See exceptions to the automatic stay for the full details on eviction.
+
+IRS and state tax collection
+
+The automatic stay stops most tax collection activity:
+
+IRS levies on wages and bank accounts must stop
+
+State tax liens cannot be enforced
+
+Tax sales of property are halted
+
+Collection notices and demand letters must stop
+
+Exceptions: Tax audits are not stayed -- the IRS can continue to assess taxes. Tax Court proceedings may continue. And the IRS can demand that you file delinquent tax returns. Only collection activity is stopped.
+
+The statutory basis: Section 362(a)
+
+Section 362(a) lists eight specific categories of stayed activity:
+
+(1) Commencement or continuation of judicial proceedings
+
+(2) Enforcement of pre-petition judgments
+
+(3) Any act to obtain possession of estate property
+
+(4) Any act to create, perfect, or enforce a lien against estate property
+
+(5) Any act to create, perfect, or enforce a lien against property of the debtor to the extent it secures a pre-petition claim
+
+(6) Any act to collect, assess, or recover a pre-petition claim
+
+(7) Setoff of pre-petition debts
+
+(8) Commencement or continuation of proceedings before the Tax Court
+
+Related Guides
+
+Section 362 Automatic Stay
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+PACER cases made free through RECAP: 0 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on the automatic stay:
+
+11 U.S.C. Section 362
+Cornell LII -- the statute that creates the automatic stay
+
+11 U.S.C. Section 1301
+Cornell LII -- codebtor stay in Chapter 13
+
+Bankruptcy Basics
+U.S. Courts official guide
+
+CFPB: What Is Bankruptcy?
+Consumer Financial Protection Bureau
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Automatic Stay Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Codebtor Stay in Chapter 13
+
+Protecting cosigners in Chapter 13
+
+codebtorstay.org →
+
+Relief from Stay Motions
+
+When creditors can lift the automatic stay
+
+relieffromstay.org →
+
+Serial Filer Rules
+
+Rules for repeat bankruptcy filers
+
+serialfiler.org →
+
+Cosigner Rights in Bankruptcy
+
+Free bankruptcy information guide
+
+cosignerrights.org →
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Home
+What It Covers
+Violations
+Exceptions
+Repeat Filers
+Relief from Stay
+Duration
+30-Day Limit
+
+This site provides general information only and does not constitute legal advice.
+No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+
+Last updated: March 2026
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing.
+
+Sponsor this research
+
+This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+You May Also Find Helpful
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+---
+
+## Emergency Bankruptcy Protection -- What the Automatic Stay Stops Immediately
+Source: https://automaticstay.org/emergency-protection.html
+
+Skip to content
+
+automaticstay.org
+☰
+
+Home
+What It Covers
+Violations
+EN | ES
+
+Emergency Bankruptcy Protection
+
+What the automatic stay stops immediately when you file -- foreclosure, garnishment, repossession, utility shutoff, and lawsuits.
+
+The Stay Takes Effect Instantly
+
+The automatic stay takes effect the moment your bankruptcy petition is filed with the court. Not when creditors receive notice -- the instant the petition is filed. 11 U.S.C. Section 362(a).
+
+Courts allow emergency filings (sometimes called bare-bones or skeleton filings) where you file the petition and a short list of creditors first, then submit the full schedules within 14 days. This means protection can begin within hours if necessary. Many courts accept electronic filings, making same-day protection available even late in the afternoon.
+
+Foreclosure -- Stops Immediately
+
+The automatic stay halts all foreclosure activity, including a sale that is already scheduled. Even filing on the morning of the sale stops it. In Chapter 13, the debtor can propose a plan to cure the mortgage arrearage over 3 to 5 years while making regular payments going forward and keeping the home.
+
+Section 362(a)(3)-(4): Prohibits any act to obtain possession of property of the estate or to create, perfect, or enforce any lien against property of the estate.
+
+In Chapter 7, the stay delays foreclosure but does not provide a long-term solution for catching up on missed payments. Chapter 13 is the stronger tool for homeowners facing foreclosure.
+
+Wage Garnishment -- Stops Immediately
+
+The automatic stay under Section 362(a)(2) stops wage garnishment the moment the petition is filed. Your employer must stop withholding garnished wages once the bankruptcy case is on file. Any wages garnished after the filing date must be returned.
+
+Exception: Garnishments for domestic support obligations (child support and alimony) are not stopped by the automatic stay under Section 362(b)(2). These continue regardless of the bankruptcy filing.
+
+Car Repossession -- Stops Immediately
+
+If you file bankruptcy before your vehicle is repossessed, the creditor cannot take it. The automatic stay prohibits any act to obtain possession of property of the estate.
+
+If the car was already repossessed but has not yet been sold at auction, filing bankruptcy may force the creditor to return it. A creditor who repossesses a vehicle after a bankruptcy filing is in willful violation of the stay and may be liable for actual damages, attorney fees, and punitive damages under Section 362(k).
+
+In Chapter 13, you can cure the auto loan arrearage and may be able to reduce the loan balance to the vehicle's current value (a "cramdown") if the loan is more than 910 days old.
+
+Utility Shutoff -- 20-Day Protection
+
+Under Section 366 of the Bankruptcy Code, a utility company cannot alter, refuse, or discontinue service to a debtor for 20 days after the bankruptcy petition is filed. This includes electricity, gas, water, and telephone service.
+
+After the initial 20-day window, the debtor must provide adequate assurance of future payment -- typically a reasonable deposit. The utility cannot require payment of pre-petition arrears as a condition of continued service. The pre-petition utility debt is treated as an unsecured claim in the bankruptcy case.
+
+Lawsuits and Collection Actions -- Stop Immediately
+
+All pending and threatened lawsuits against the debtor are stayed. All collection calls, letters, emails, and other communications demanding payment must stop. This includes:
+
+Debt collection lawsuits in state or federal court
+
+Collection calls and letters from creditors and collection agencies
+
+Bank account levies and freezes
+
+Tax liens (with some exceptions for certain tax proceedings)
+
+Disconnection of services
+
+Setoffs against bank accounts
+
+A creditor who continues collection activity after learning of the bankruptcy filing may be liable for willful violation under Section 362(k), including actual damages and attorney fees.
+
+Eviction -- Limited Protection
+
+In most cases, the automatic stay temporarily halts eviction proceedings. However, under Section 362(b)(22), if the landlord already obtained a judgment for possession before the bankruptcy was filed, the stay generally does not apply. The debtor may extend protection by filing a certification under Section 362(l) and curing the default within 30 days, but this applies only in states where the tenant has a right to cure after judgment.
+
+Important Limitations
+
+Repeat filers: If you had a bankruptcy case dismissed within the past year, the stay may be limited to 30 days under Section 362(c)(3), or may not take effect at all under Section 362(c)(4) if you had two or more cases dismissed. You can file a motion to extend the stay, but you must prove the new filing is in good faith. See our repeat filer guide.
+
+Frequently Asked Questions
+
+Can bankruptcy stop a foreclosure sale that is already scheduled?
+
+Yes. Filing a bankruptcy petition at any time before the sale is completed triggers the automatic stay, which halts the sale immediately. Even an emergency filing on the morning of the sale can stop it.
+
+How fast does the automatic stay take effect?
+
+The instant the petition is filed with the court. Courts allow emergency (bare-bones) filings where you submit the petition first and the full schedules within 14 days.
+
+Can bankruptcy stop my wages from being garnished?
+
+Yes. The automatic stay stops wage garnishment immediately. However, garnishments for child support and alimony are exempt from the stay.
+
+Can filing bankruptcy stop a car repossession?
+
+Yes. If you file before repossession, the creditor cannot take the car. If the car was already repossessed but not yet sold, filing may force the creditor to return it.
+
+Does bankruptcy stop utility companies from shutting off service?
+
+Yes. Under Section 366, a utility cannot discontinue service for 20 days after filing. After 20 days, you must provide adequate assurance of future payment (typically a deposit).
+
+Check Your Eligibility
+
+Use our free screening tool to check your bankruptcy discharge eligibility.
+
+Free Discharge Screener
+Chapter 7 vs 13
+
+About This Data: Content based on the Bankruptcy Code (11 U.S.C. Section 362, 366),
+federal case law, and the Federal Rules of Bankruptcy Procedure. District-level statistics from the
+Federal Judicial Center Integrated Database (37.9 million cases, 94 districts, FY 2008-2024).
+This is educational content, not legal advice.
+
+Related Guides
+
+What the Automatic Stay Covers
+
+Automatic Stay Violations
+
+Car Repossessed in Bankruptcy
+
+Repeat Filer Stay Limits
+
+Keep My House in Bankruptcy
+
+Keep My Car in Bankruptcy
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources on the automatic stay and emergency bankruptcy protections:
+
+11 U.S.C. Section 362
+Cornell LII -- Automatic stay full text
+
+11 U.S.C. Section 366
+Cornell LII -- Utility service protection
+
+CFPB: Debt Collection
+Consumer Financial Protection Bureau tools
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+Disability & Debt
+Rebuild Credit
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Automatic Stay FAQ -- Bankruptcy Protection Questions Answered
+Source: https://automaticstay.org/frequently-asked-questions.html
+
+Skip to main content
+
+automaticstay.org
+
+Home
+FAQ
+Espanol
+
+Automatic Stay FAQ -- Bankruptcy Protection Questions Answered
+
+Common questions about the automatic stay in bankruptcy, what it covers, exceptions, violations, and how long protection lasts.
+
+What is the automatic stay in bankruptcy?
+
+The automatic stay is an injunction that takes effect the instant you file a bankruptcy petition. Under 11 U.S.C. Section 362, it immediately stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. No court order is needed -- it is automatic.
+
+What does the automatic stay prevent?
+
+The stay prevents creditors from: filing or continuing lawsuits, enforcing judgments, creating or enforcing liens, repossessing property, garnishing wages, offsetting debts, disconnecting utilities (for 20 days), and contacting you to collect debts. It provides a breathing room to reorganize your finances.
+
+What are the exceptions to the automatic stay?
+
+Key exceptions include: criminal proceedings, certain tax proceedings, domestic support obligation collection (child support, alimony), evictions where the landlord already has a judgment for possession, and certain financial instrument transactions. Police powers of governmental units are also generally exempt.
+
+How long does the automatic stay last?
+
+In a first-time filing, the stay lasts until the case is closed, dismissed, or discharge is granted. In Chapter 7, this is typically 3-4 months. In Chapter 13, it can last the entire 3-5 year plan. For repeat filers, special limits apply under Section 362(c).
+
+What happens if a creditor violates the automatic stay?
+
+Creditors who willfully violate the automatic stay can be held in contempt of court and ordered to pay actual damages, attorney fees, and in some cases punitive damages. Document every violation and report it to the court promptly. Violations are taken seriously by bankruptcy judges.
+
+Does the automatic stay stop foreclosure?
+
+Yes. The stay immediately halts foreclosure proceedings, whether pre-sale or post-judgment. However, the mortgage lender can file a motion for relief from stay, which the court may grant if you have no equity and the property is not necessary for reorganization.
+
+Does the automatic stay stop repossession?
+
+Yes. The stay prevents vehicle repossession immediately upon filing. If a repossession has already occurred but the vehicle has not been sold, the stay may require the creditor to return the vehicle under the turnover provisions of Section 542.
+
+What is a motion for relief from the automatic stay?
+
+A creditor can ask the court to lift the automatic stay for a specific debt or property. Common grounds include: the debtor has no equity in the property and it is not necessary for reorganization (Section 362(d)(1)), or the debtor is not making adequate protection payments. The debtor has the right to oppose the motion.
+
+Does the automatic stay stop wage garnishment?
+
+Yes. The stay immediately stops all wage garnishments except for domestic support obligations (child support and alimony). Your employer must stop the garnishment once notified of the bankruptcy filing. Wages garnished after filing may need to be returned.
+
+What if I filed bankruptcy before -- do I still get the automatic stay?
+
+If you had one prior case dismissed within the last year, the stay only lasts 30 days unless you file a motion to extend it. If you had two or more cases dismissed within the last year, you get no automatic stay at all unless you file a motion to impose it.
+
+Does the automatic stay protect co-debtors?
+
+In Chapter 13, the co-debtor stay under Section 1301 protects co-signers and guarantors on consumer debts from collection. In Chapter 7, there is no co-debtor stay -- creditors can pursue co-signers even while the primary debtor's case is pending.
+
+Can the automatic stay stop a lawsuit?
+
+Yes. The stay immediately halts most civil lawsuits against you, including collection suits, foreclosure actions, and contract disputes. However, it does not stop criminal proceedings or actions by government regulators exercising police or regulatory powers.
+
+Does the automatic stay stop utility disconnection?
+
+The stay prevents utility companies from disconnecting service for 20 days after filing. After 20 days, the utility can require a deposit (no more than one month's service) as adequate assurance of future payment. This applies to electric, gas, water, and telephone services.
+
+How do I notify creditors of the automatic stay?
+
+The court sends official notice to all creditors listed in your petition. For immediate protection, you or your attorney can notify creditors directly by providing them with the case number and filing date. A creditor who continues collection after receiving notice faces contempt sanctions.
+
+Can I waive the automatic stay?
+
+Pre-petition waivers of the automatic stay are generally unenforceable. Courts have consistently held that debtors cannot waive their right to the stay before filing. However, the court can modify or terminate the stay after filing based on a creditor's motion.
+
+More Resources on This Site
+
+What It Covers
+
+Exceptions
+
+Violations
+
+How Long Does It Last
+
+Motion for Relief
+
+Serial Filer Limits
+
+Related Resources
+
+Section 109(g) Filing Bar
+
+Keep Your Car
+
+Keep Your House
+
+Open Bankruptcy Project
+
+Real information, no strings.
+
+openbankruptcyproject.org
+1328f.com
+chapter7vs13.org
+bankruptcymeanstest.org
+♥ Sponsor
+
+This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms

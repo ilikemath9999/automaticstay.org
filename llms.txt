@@ -1,22 +1,30 @@
-# automaticstay.org
+# 11 USC 362 Automatic Stay -- Bankruptcy Protection Guide [2026]
+> 11 USC 362 automatic stay stops all creditor actions the moment you file bankruptcy. Learn what it covers, exceptions, violations, and re...
 
-> Plain-English guide to the automatic stay under 11 U.S.C. Section 362.
+## About
+automaticstay.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-automaticstay.org is a free, open-source educational resource about the automatic stay in bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://automaticstay.org/: Overview of the automatic stay -- your shield against creditors
-- https://automaticstay.org/what-it-covers.html: What the automatic stay covers -- lawsuits, garnishments, foreclosures, repossessions, collection calls, utility shutoffs
-- https://automaticstay.org/violations.html: When creditors violate the stay -- 362(k) damages, what to do, common violations
-- https://automaticstay.org/exceptions.html: Exceptions to the stay -- criminal proceedings, domestic support, tax audits, police power
-- https://automaticstay.org/serial-filer-limits.html: Repeat filer limits -- 362(c)(3) 30-day stay, 362(c)(4) no stay
-- https://automaticstay.org/motion-for-relief.html: Motion for relief from stay -- when creditors ask to lift the stay
-- https://automaticstay.org/how-long-does-it-last.html: How long the automatic stay lasts in Chapter 7 vs Chapter 13
-- https://automaticstay.org/car-repossessed.html: What to do if your car was repossessed before or after filing
-- https://automaticstay.org/creditor-still-calling.html: What to do when a creditor keeps calling after you file bankruptcy
-- https://automaticstay.org/index-es.html: Guia en espanol -- La suspension automatica
+## Key Pages
+- Automatic Stay Limited to 30 Days for Repeat Filers -- Section 362(c)(2) and (c)(3): https://automaticstay.org/362c-repeat-filer.html
+- Bankruptcy Protection -- How Bankruptcy Protects You [2026] -- Automatic Stay: https://automaticstay.org/bankruptcy-protection.html
+- My Car Was Repossessed After I Filed Bankruptcy -- What Do I Do? -- Automatic Stay: https://automaticstay.org/car-repossessed.html
+- Motion to Extend the Automatic Stay (Comfort Order): https://automaticstay.org/comfort-order.html
+- Creditor Still Calling After I Filed Bankruptcy -- What Do I Do? -- Automatic Stay: https://automaticstay.org/creditor-still-calling.html
+- Exceptions to the Automatic Stay -- What Bankruptcy Does NOT Stop: https://automaticstay.org/exceptions.html
+- How Long Does the Automatic Stay Last? -- Chapter 7 vs. Chapter 13: https://automaticstay.org/how-long-does-it-last.html
+- 11 USC 362 Automatic Stay -- Bankruptcy Protection Guide: https://automaticstay.org/
+- Motion for Relief from Stay -- When Creditors Ask the Court to Lift the Stay -- Automatic Stay: https://automaticstay.org/motion-for-relief.html
+- Automatic Stay Limits for Repeat Filers -- 362(c)(3) and 362(c)(4): https://automaticstay.org/serial-filer-limits.html
+- Serial Filer Stay Limitation -- Repeat Filing Restrictions -- Automatic Stay: https://automaticstay.org/serial-filer-stay-limitation.html
+- When Creditors Violate the Automatic Stay -- Your Rights Under Section 362(k): https://automaticstay.org/violations.html
+- What the Automatic Stay Covers -- Lawsuits, Garnishments, Foreclosures, Repossessions: https://automaticstay.org/what-it-covers.html
+- Emergency Bankruptcy Protection -- What the Automatic Stay Stops Immediately: https://automaticstay.org/emergency-protection.html
+- Automatic Stay FAQ -- Bankruptcy Protection Questions Answered: https://automaticstay.org/frequently-asked-questions.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
