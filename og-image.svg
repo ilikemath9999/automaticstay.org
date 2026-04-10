@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <!-- Shield/stop accent -->
+  <g transform="translate(600,100)" fill="none" stroke="#58a6ff" stroke-width="2.5">
+    <path d="M0,-28 L25,-15 L25,10 Q25,28 0,35 Q-25,28 -25,10 L-25,-15 Z"/>
+    <line x1="-10" y1="-2" x2="10" y2="-2" stroke-width="3"/>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="52" font-weight="bold" fill="#e6edf3">Automatic Stay</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#58a6ff">Section 362 -- Immediate Protection When You File</text>
+  <rect x="250" y="320" width="700" height="2" fill="#30363d"/>
+  <text x="600" y="380" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#7d8590">Stop Collections -- Halt Foreclosure -- Prevent Garnishment</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#484f58">Open Bankruptcy Project</text>
+  <text x="600" y="585" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#484f58">automaticstay.org</text>
+</svg>
