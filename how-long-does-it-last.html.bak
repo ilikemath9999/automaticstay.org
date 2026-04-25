@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>How Long Does the Automatic Stay Last? - Chapter 7 vs. Chapter 13</title>
+<meta content="Learn about how long does the automatic stay last? - chapter 7 vs. chapter 13 | automaticstay.org in our free 2026 guide." name="description"/>
+<link href="https://automaticstay.org/how-long-does-it-last.html" rel="canonical"/>
+<meta content="How Long Does the Automatic Stay Last? - Chapter 7 vs. Chapter 13" property="og:title"/>
+<meta content="Learn about how long does the automatic stay last? - chapter 7 vs. chapter 13 | automaticstay.org in our free 2026 guide." property="og:description"/>
+<meta content="article" property="og:type"/>
+<meta content="https://automaticstay.org/how-long-does-it-last.html" property="og:url"/>
+<meta content="automaticstay.org" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="/og-image.svg" property="og:image"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does the automatic stay last in Chapter 7?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Chapter 7, the automatic stay generally lasts from the date of filing until the case is closed or the debtor receives a discharge, typically 3-6 months. Once the discharge is entered, the automatic stay is replaced by the discharge injunction under Section 524, which permanently prohibits collection of discharged debts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the automatic stay last in Chapter 13?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Chapter 13, the automatic stay lasts from the date of filing until the case is dismissed, the debtor receives a discharge, or the case is closed. Since Chapter 13 plans run for 3-5 years, the stay can protect the debtor for the entire plan period. The stay protects the debtor from collection while they make plan payments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens to the automatic stay when a bankruptcy case is dismissed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When a bankruptcy case is dismissed, the automatic stay terminates immediately. All creditors are free to resume collection activity. There is no discharge injunction. If the debtor re-files within a year, the new automatic stay may be limited under Sections 362(c)(3) or 362(c)(4)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What replaces the automatic stay after discharge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The discharge injunction under 11 U.S.C. Section 524 replaces the automatic stay for discharged debts. The discharge injunction is permanent - it prohibits any creditor from ever attempting to collect a discharged debt. Debts that are not discharged (such as certain taxes, student loans, and domestic support obligations) are no longer protected once the stay ends."
+      }
+    }
+  ]
+}
+</script>
+<style>
+  :root { --bg: #0d1117; --surface: #161b22; --border: #30363d; --text: #e6edf3; --text-muted: #9eaab6; --accent: #58a6ff; --green: #3fb950; --red: #f85149; --yellow: #e3a835; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.7; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.75rem 2rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.5rem; }
+  nav .site-name { color: #f0f6fc; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  .hamburger { display: none; background: none; border: none; color: var(--text); font-size: 1.5rem; cursor: pointer; padding: 0.25rem; }
+  header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 3rem 2rem; text-align: center; }
+  header h1 { color: #f0f6fc; font-size: 2rem; margin-bottom: 0.75rem; }
+  header .subtitle { color: var(--text-muted); font-size: 1.05rem; max-width: 700px; margin: 0 auto; }
+  main { max-width: 820px; margin: 0 auto; padding: 2rem 1.5rem; }
+  .breadcrumb { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; }
+  .breadcrumb a { color: var(--text-muted); }
+  .breadcrumb a:hover { color: var(--accent); }
+  .content-section { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 2rem; margin-bottom: 1.5rem; }
+  .content-section h2 { color: #f0f6fc; font-size: 1.3rem; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+  .content-section h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.75rem; }
+  .content-section p { color: var(--text); margin-bottom: 0.75rem; font-size: 0.95rem; }
+  .content-section ul, .content-section ol { margin: 0.75rem 0 0.75rem 1.5rem; color: var(--text); font-size: 0.95rem; }
+  .content-section li { margin-bottom: 0.4rem; }
+  .statute-box { background: #21262d; border-left: 3px solid var(--accent); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .statute-box p { margin-bottom: 0.5rem; }
+  .statute-box p:last-child { margin-bottom: 0; }
+  .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .warning-box p { margin-bottom: 0.5rem; }
+  .warning-box p:last-child { margin-bottom: 0; }
+  .green-box { background: #21262d; border-left: 3px solid var(--green); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .green-box p { margin-bottom: 0.5rem; }
+  .green-box p:last-child { margin-bottom: 0; }
+  .yellow-box { background: #21262d; border-left: 3px solid var(--yellow); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
+  .yellow-box p { margin-bottom: 0.5rem; }
+  .yellow-box p:last-child { margin-bottom: 0; }
+  table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.9rem; }
+  th, td { padding: 0.75rem 1rem; text-align: left; border-bottom: 1px solid var(--border); }
+  th { color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600; }
+  footer { background: var(--surface); border-top: 1px solid var(--border); padding: 2rem; text-align: center; margin-top: 2rem; }
+  footer p { color: var(--text-muted); font-size: 0.8rem; margin-bottom: 0.5rem; }
+  .footer-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem; margin-bottom: 1rem; }
+  .footer-links a { color: var(--text-muted); font-size: 0.85rem; }
+  .footer-links a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.5rem; }
+    main { padding: 1.5rem 1rem; }
+    .content-section { padding: 1.25rem; }
+    nav { padding: 0.75rem 1rem; }
+    .hamburger { display: block; }
+    .nav-links { display: none; width: 100%; flex-direction: column; gap: 0; padding-top: 0.75rem; }
+    .nav-links.open { display: flex; }
+    .nav-links a { display: block; padding: 0.6rem 0; font-size: 0.95rem; min-height: 44px; line-height: 2; border-bottom: 1px solid #21262d; }
+    table { font-size: 0.8rem; }
+    th, td { padding: 0.5rem 0.5rem; }
+  }
+</style>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "How Long Does the Automatic Stay Last?",
+      "description": "The automatic stay lasts for the duration of your bankruptcy case. In Chapter 7, that is 3-6 months. In Chapter 13, 3-5 years. Learn what happens when the stay ",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://automaticstay.org/how-long-does-it-last.html"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://automaticstay.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Section 362 Automatic Stay",
+          "item": "https://automaticstay.org"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "How Long Does the Automatic Stay Last?",
+          "item": "https://automaticstay.org/how-long-does-it-last.html"
+        }
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "name": "How Long Does the Automatic Stay Last?",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nHow Long Does the Automatic Stay Last? - Chapte"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "341 meeting: Held 20-40 days after filing. The stay continues."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "60-day deadline: Creditors have 60 days after the 341 meeting to object to discharge"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Discharge: Typically entered about 60-90 days after filing. At this point, the stay is replaced by the discharge injunction for discharged debts."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Case closure: The stay terminates for any remaining matters"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "Filing day: Automatic stay takes effect immediately"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "341 meeting: Held 20-40 days after filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Plan confirmation: Usually within 3-6 months of filing"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Plan payments: 36-60 months of payments through the trustee"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Discharge: Entered after all plan payments are completed. The discharge injunction replaces the stay for discharged debts."
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "name": "How Long Does the Automatic Stay Last?",
+      "url": "https://automaticstay.org/how-long-does-it-last.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<link href="https://automaticstay.org/how-long-does-it-last.html" hreflang="en" rel="alternate"/>
+<link href="https://automaticstay.org/how-long-does-it-last-es.html" hreflang="es" rel="alternate"/>
+</head>
+<body>
+<nav aria-label="Main navigation">
+<a class="site-name" href="/">automaticstay.org</a>
+<button aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger">☰</button>
+<div class="nav-links" id="nav-links">
+<a href="/">Home</a>
+<a href="/what-it-covers.html">What It Covers</a>
+<a href="/violations.html">Violations</a>
+<a href="/exceptions.html">Exceptions</a>
+<a href="/serial-filer-limits.html">Repeat Filers</a>
+<a href="/motion-for-relief.html">Relief from Stay</a>
+<a class="active" href="/how-long-does-it-last.html">Duration</a>
+<a href="/362c-repeat-filer.html">30-Day Limit</a>
+</div>
+</nav>
+<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.hamburger');if(b)b.addEventListener('click',function(){var n=document.getElementById('nav-links');n.classList.toggle('open');b.setAttribute('aria-expanded',n.classList.contains('open'))})});</script>
+<header>
+<h1>How Long Does the Automatic Stay Last?</h1>
+<p class="subtitle">The stay lasts for the duration of your bankruptcy case - but the duration depends on the chapter you file, whether your case succeeds, and whether any creditor obtains relief.</p>
+</header>
+<main>
+<div class="breadcrumb"><a href="/">Home</a> / Duration</div>
+<div class="content-section">
+<h2>Duration by chapter</h2>
+<table>
+<thead>
+<tr>
+<th scope="col">Chapter</th>
+<th scope="col">Typical stay duration</th>
+<th scope="col">What ends it</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a></strong></td>
+<td>3-6 months</td>
+<td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a> or case closure</td>
+</tr>
+<tr>
+<td><strong><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a></strong></td>
+<td>3-5 years</td>
+<td><a href="https://bankruptcydischarge.org/" title="discharge">Discharge</a>, <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, or plan completion</td>
+</tr>
+<tr>
+<td><strong><a href="https://section1191.org/" title="Chapter 11">Chapter 11</a></strong></td>
+<td>Varies widely (months to years)</td>
+<td><a href="https://chapter13plan.org/" title="confirmation">Plan confirmation</a> and substantial consummation, or <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></td>
+</tr>
+<tr>
+<td><strong>Chapter 12</strong></td>
+<td>3-5 years</td>
+<td>Discharge, dismissal, or plan completion</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="content-section">
+<h2>Chapter 7: A few months of protection</h2>
+<p><a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> is a liquidation bankruptcy. The case is typically open for 3-6 months. During that time, the automatic stay protects you from all collection activity.</p>
+<h3>Timeline</h3>
+<ol>
+<li><strong>Filing day:</strong> Automatic stay takes effect immediately</li>
+<li><strong><a href="https://341meeting.org/" title="341 meeting">341 meeting</a>:</strong> Held 20-40 days after filing. The stay continues.</li>
+<li><strong>60-day deadline:</strong> Creditors have 60 days after the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> to object to discharge</li>
+<li><strong>Discharge:</strong> Typically entered about 60-90 days after filing. At this point, the stay is replaced by the <a href="https://dischargeinjunction.org" rel="noopener" target="_blank" title="Discharge Injunction - Open Bankruptcy Project">discharge injunction</a> for discharged debts.</li>
+<li><strong>Case closure:</strong> The stay terminates for any remaining matters</li>
+</ol>
+<div class="green-box">
+<p><strong>What happens at discharge:</strong> For debts that are discharged, the automatic stay transforms into the <strong><a href="https://dischargeinjunction.com/" title="discharge injunction">discharge injunction</a></strong> under <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>. This is permanent - creditors can never attempt to collect a discharged debt, for the rest of your life. The <a href="https://dischargeinjunction.org" rel="noopener" target="_blank" title="Discharge Injunction - Open Bankruptcy Project">discharge injunction</a> is even stronger than the stay because it has no expiration date.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Chapter 13: Years of protection</h2>
+<p><a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> is a reorganization bankruptcy with a <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">repayment plan</a> lasting 3-5 years. The automatic stay protects you for the entire plan period, as long as your case remains open.</p>
+<h3>Timeline</h3>
+<ol>
+<li><strong>Filing day:</strong> Automatic stay takes effect immediately</li>
+<li><strong><a href="https://341meeting.org/" title="341 meeting">341 meeting</a>:</strong> Held 20-40 days after filing</li>
+<li><strong><a href="https://chapter13plan.org/" title="confirmation">Plan confirmation</a>:</strong> Usually within 3-6 months of filing</li>
+<li><strong>Plan payments:</strong> 36-60 months of payments through the trustee</li>
+<li><strong>Discharge:</strong> Entered after all plan payments are completed. The <a href="https://dischargeinjunction.org" rel="noopener" target="_blank" title="Discharge Injunction - Open Bankruptcy Project">discharge injunction</a> replaces the stay for discharged debts.</li>
+</ol>
+<p>During the entire plan period, creditors cannot pursue collection activity outside the plan. This is one of the key advantages of Chapter 13 - years of breathing room to catch up on mortgage arrears, car payments, and priority debts.</p>
+</div>
+<div class="content-section">
+<h2>What ends the stay early</h2>
+<h3>Dismissal</h3>
+<p>If your case is dismissed - whether voluntarily or involuntarily - the automatic stay terminates <strong>immediately</strong>. All creditors are free to resume collection activity. There is no grace period.</p>
+<div class="warning-box">
+<p><strong>Dismissal is the worst outcome.</strong> You get no discharge. Creditors resume where they left off. And if you re-file within a year, your automatic stay will be limited under <a href="/serial-filer-limits.html">Sections 362(c)(3) or 362(c)(4)</a>.</p>
+</div>
+<h3>Relief from stay</h3>
+<p>If a creditor obtains a court order lifting the stay (a <a href="/motion-for-relief.html">motion for relief from stay</a>), the stay terminates as to that specific creditor and property. The stay continues for everything else.</p>
+<h3>Conversion</h3>
+<p>If your case is converted from one chapter to another (e.g., Chapter 13 to Chapter 7), the automatic stay continues. However, the nature of the case changes, and the stay's duration resets based on the new chapter's timeline.</p>
+<h3>Property abandoned by the trustee</h3>
+<p>When the trustee abandons property (determines it has no value to the estate), the stay as to that property terminates. The property returns to the debtor, but creditors with liens on that property can now enforce them.</p>
+</div>
+<div class="content-section">
+<h2>The discharge injunction: what replaces the stay</h2>
+<p>When you receive a discharge, the automatic stay does not just disappear. For debts that are discharged, it is <strong>replaced</strong> by the <a href="https://dischargeinjunction.org" rel="noopener" target="_blank" title="Discharge Injunction - Open Bankruptcy Project">discharge injunction</a> under 11 U.S.C. <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>.</p>
+<h3>Key differences between the stay and the discharge injunction</h3>
+<table>
+<thead>
+<tr>
+<th scope="col">Feature</th>
+<th scope="col">Automatic stay (<a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a>)</th>
+<th scope="col"><a href="https://dischargeinjunction.com/" title="discharge injunction">Discharge injunction</a> (<a href="https://www.law.cornell.edu/uscode/text/11/524" rel="noopener" target="_blank">Section 524</a>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Duration</td>
+<td>Temporary - lasts during the case</td>
+<td><strong>Permanent</strong> - lasts forever</td>
+</tr>
+<tr>
+<td>Scope</td>
+<td>All debts and all creditors</td>
+<td>Only discharged debts</td>
+</tr>
+<tr>
+<td>Private right of action</td>
+<td>Yes - <a href="https://www.law.cornell.edu/uscode/text/11/362#k_0" rel="noopener" target="_blank">Section 362(k)</a></td>
+<td>No explicit statutory remedy (enforced through contempt power)</td>
+</tr>
+<tr>
+<td>Applies to</td>
+<td>Pre-petition and some post-petition actions</td>
+<td>Only pre-petition debts that were discharged</td>
+</tr>
+</tbody>
+</table>
+<div class="statute-box">
+<p><strong>Section 524(a)(2):</strong> The discharge "operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor."</p>
+</div>
+</div>
+<div class="content-section">
+<h2>What happens to non-dischargeable debts</h2>
+<p>When the stay ends, debts that are <strong>not discharged</strong> lose all protection. Creditors holding <a href="https://nondischargeable.org/" title="nondischargeable">non-dischargeable</a> debts can resume collection immediately. Common <a href="https://nondischargeable.org/" title="nondischargeable">non-dischargeable</a> debts include:</p>
+<ul>
+<li>Most <a href="https://bankruptcystudentloans.org/" title="student loans">student loans</a> (absent <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> determination)</li>
+<li>Certain taxes (generally recent income taxes less than 3 years old)</li>
+<li>Domestic support obligations (child support, alimony)</li>
+<li>Debts arising from fraud, willful injury, or drunk driving</li>
+<li>Criminal restitution</li>
+<li>Debts not listed in the bankruptcy schedules (in some cases)</li>
+</ul>
+<p>For these debts, the automatic stay provides temporary relief, but the underlying obligation survives the bankruptcy.</p>
+</div>
+<div class="content-section">
+<h2>Repeat filer limitations</h2>
+<p>If your prior case was dismissed, the duration of your automatic stay in a new case may be severely limited:</p>
+<ul>
+<li><strong>One prior dismissal within 1 year:</strong> Stay lasts only 30 days under <a href="/serial-filer-limits.html">Section 362(c)(3)</a></li>
+<li><strong>Two or more prior dismissals within 1 year:</strong> No stay at all under <a href="/serial-filer-limits.html">Section 362(c)(4)</a></li>
+</ul>
+<p>In both cases, you can file a motion asking the court to extend or impose the stay, but you must demonstrate good faith.</p>
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://362stay.org" style="color:#58a6ff;text-decoration:none">Section 362 Automatic Stay</a></li>
+</ul>
+</div>
+</main>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on the automatic stay:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 362</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - the statute that creates the automatic stay</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/1301" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 1301</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - codebtor stay in Chapter 13</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Bankruptcy Basics</a><br/><span style="color:#7d8590;font-size:0.8rem">U.S. Courts official guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/what-is-bankruptcy-en-1935/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: What Is Bankruptcy?</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer Financial Protection Bureau</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22automatic+stay%22+%22362%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Automatic Stay Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.fjc.gov/research/idb" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">FJC Bankruptcy Statistics</a><br/><span style="color:#7d8590;font-size:0.8rem"><a href="https://www.fjc.gov/" rel="noopener" target="_blank">Federal Judicial Center</a></span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://codebtorstay.org?utm_source=automaticstay.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Codebtor Stay in Chapter 13</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Protecting cosigners in Chapter 13</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">codebtorstay.org →</p>
+</a>
+<a class="related-card" href="https://relieffromstay.org?utm_source=automaticstay.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Relief from Stay Motions</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">When creditors can lift the automatic stay</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">relieffromstay.org →</p>
+</a>
+<a class="related-card" href="https://serialfiler.org?utm_source=automaticstay.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Serial Filer Rules</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Rules for repeat bankruptcy filers</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">serialfiler.org →</p>
+</a>
+<a class="related-card" href="https://cosignerrights.org?utm_source=automaticstay.org&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Cosigner Rights in Bankruptcy</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">cosignerrights.org →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<div class="footer-links">
+<a href="/">Home</a>
+<a href="/what-it-covers.html">What It Covers</a>
+<a href="/violations.html">Violations</a>
+<a href="/exceptions.html">Exceptions</a>
+<a href="/serial-filer-limits.html">Repeat Filers</a>
+<a href="/motion-for-relief.html">Relief from Stay</a>
+<a href="/how-long-does-it-last.html">Duration</a>
+<a href="/362c-repeat-filer.html">30-Day Limit</a>
+</div>
+<p>This site provides general information only and does not constitute legal advice.<br/>No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.</p>
+<p style="margin-top:0.5rem">Last updated: March 2026</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">91</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+<a href="https://1328f.org/support/" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Sponsor this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script defer="" src="/btn-engage.js"></script>
+<div style="text-align:center;padding:16px;color:#8b949e;font-size:0.8rem;border-top:1px solid #30363d;margin-top:20px"><p>This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.</p></div>
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=automaticstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=automaticstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=automaticstay.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+</ul>
+</div>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>

@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<!-- BTN:GA4:START -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<!-- BTN:GA4:END -->
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Automatic Stay FAQ - Bankruptcy Protection Questions Answered</title>
+<meta content="Common questions about the automatic stay in bankruptcy, what it covers, exceptions, violations, and how long protection lasts." name="description"/>
+<meta content="automatic stay bankruptcy, Section 362, creditor protection, stay violations, motion for relief from stay" name="keywords"/>
+<link href="https://automaticstay.org/frequently-asked-questions.html" rel="canonical"/>
+<link href="https://automaticstay.org/frequently-asked-questions.html" hreflang="en" rel="alternate"/>
+<link href="https://automaticstay.org/frequently-asked-questions-es.html" hreflang="es" rel="alternate"/>
+<!-- Open Graph -->
+<meta content="Automatic Stay FAQ - Bankruptcy Protection Questions Answered" property="og:title"/>
+<meta content="Common questions about the automatic stay in bankruptcy, what it covers, exceptions, violations, and how long protection lasts." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://automaticstay.org/frequently-asked-questions.html" property="og:url"/>
+<meta content="automaticstay.org" property="og:site_name"/>
+<meta content="/og-image.svg" property="og:image"/>
+<!-- Twitter Card -->
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Automatic Stay FAQ - Bankruptcy Protection Questions Answered" name="twitter:title"/>
+<meta content="Common questions about the automatic stay in bankruptcy, what it covers, exceptions, violations, and how long protection lasts." name="twitter:description"/>
+<meta content="/og-image.svg" name="twitter:image"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta content="#0d1117" name="theme-color"/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the automatic stay in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The automatic stay is an injunction that takes effect the instant you file a bankruptcy petition. Under 11 U.S.C. Section 362, it immediately stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. No court order is needed - it is automatic."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does the automatic stay prevent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stay prevents creditors from: filing or continuing lawsuits, enforcing judgments, creating or enforcing liens, repossessing property, garnishing wages, offsetting debts, disconnecting utilities (for 20 days), and contacting you to collect debts. It provides a breathing room to reorganize your finances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the exceptions to the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key exceptions include: criminal proceedings, certain tax proceedings, domestic support obligation collection (child support, alimony), evictions where the landlord already has a judgment for possession, and certain financial instrument transactions. Police powers of governmental units are also generally exempt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the automatic stay last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In a first-time filing, the stay lasts until the case is closed, dismissed, or discharge is granted. In Chapter 7, this is typically 3-4 months. In Chapter 13, it can last the entire 3-5 year plan. For repeat filers, special limits apply under Section 362(c)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens if a creditor violates the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Creditors who willfully violate the automatic stay can be held in contempt of court and ordered to pay actual damages, attorney fees, and in some cases punitive damages. Document every violation and report it to the court promptly. Violations are taken seriously by bankruptcy judges."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay stop foreclosure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The stay immediately halts foreclosure proceedings, whether pre-sale or post-judgment. However, the mortgage lender can file a motion for relief from stay, which the court may grant if you have no equity and the property is not necessary for reorganization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay stop repossession?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The stay prevents vehicle repossession immediately upon filing. If a repossession has already occurred but the vehicle has not been sold, the stay may require the creditor to return the vehicle under the turnover provisions of Section 542."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a motion for relief from the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A creditor can ask the court to lift the automatic stay for a specific debt or property. Common grounds include: the debtor has no equity in the property and it is not necessary for reorganization (Section 362(d)(1)), or the debtor is not making adequate protection payments. The debtor has the right to oppose the motion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay stop wage garnishment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The stay immediately stops all wage garnishments except for domestic support obligations (child support and alimony). Your employer must stop the garnishment once notified of the bankruptcy filing. Wages garnished after filing may need to be returned."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I filed bankruptcy before - do I still get the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If you had one prior case dismissed within the last year, the stay only lasts 30 days unless you file a motion to extend it. If you had two or more cases dismissed within the last year, you get no automatic stay at all unless you file a motion to impose it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay protect co-debtors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Chapter 13, the co-debtor stay under Section 1301 protects co-signers and guarantors on consumer debts from collection. In Chapter 7, there is no co-debtor stay - creditors can pursue co-signers even while the primary debtor's case is pending."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can the automatic stay stop a lawsuit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The stay immediately halts most civil lawsuits against you, including collection suits, foreclosure actions, and contract disputes. However, it does not stop criminal proceedings or actions by government regulators exercising police or regulatory powers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the automatic stay stop utility disconnection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stay prevents utility companies from disconnecting service for 20 days after filing. After 20 days, the utility can require a deposit (no more than one month's service) as adequate assurance of future payment. This applies to electric, gas, water, and telephone services."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I notify creditors of the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The court sends official notice to all creditors listed in your petition. For immediate protection, you or your attorney can notify creditors directly by providing them with the case number and filing date. A creditor who continues collection after receiving notice faces contempt sanctions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I waive the automatic stay?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pre-petition waivers of the automatic stay are generally unenforceable. Courts have consistently held that debtors cannot waive their right to the stay before filing. However, the court can modify or terminate the stay after filing based on a creditor's motion."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Open Bankruptcy Project",
+      "item": "https://openbankruptcyproject.org"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "automaticstay.org",
+      "item": "https://automaticstay.org/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "FAQ",
+      "item": "https://automaticstay.org/frequently-asked-questions.html"
+    }
+  ]
+}
+</script>
+<style>
+  :root {
+    --bg: #0d1117;
+    --surface: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-muted: #9eaab6;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+  }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  a:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .skip-link {
+    position: absolute; left: -9999px; top: auto;
+    width: 1px; height: 1px; overflow: hidden; z-index: 9999;
+    padding: 1rem; background: #238636; color: #fff;
+    font-weight: 600; text-decoration: none;
+  }
+  .skip-link:focus {
+    position: fixed; top: 10px; left: 10px;
+    width: auto; height: auto; overflow: visible;
+  }
+  nav {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 0.75rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  nav .site-name {
+    color: #f0f6fc;
+    font-weight: 700;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  nav .site-name:hover { text-decoration: none; color: var(--accent); }
+  .nav-links { display: flex; gap: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .nav-links a { color: var(--text-muted); font-size: 0.9rem; }
+  .nav-links a:hover { color: var(--accent); text-decoration: none; }
+  .nav-links a.active { color: var(--accent); font-weight: 600; }
+  header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+  header h1 {
+    color: #f0f6fc;
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+  header .subtitle {
+    color: var(--text-muted);
+    font-size: 1.05rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  main {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+  .faq-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin: 0.75rem 0;
+    overflow: hidden;
+  }
+  .faq-item summary {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--text);
+    list-style: none;
+    position: relative;
+    padding-right: 2.5rem;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary::after {
+    content: '+';
+    position: absolute;
+    right: 1.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.3rem;
+    color: var(--accent);
+    font-weight: 400;
+  }
+  .faq-item[open] summary::after { content: '-'; }
+  .faq-item[open] summary {
+    border-bottom: 1px solid var(--border);
+    background: rgba(88,166,255,0.05);
+  }
+  .faq-item p {
+    padding: 1rem 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+  .related-pages, .crosslinks {
+    margin: 2.5rem 0 1.5rem;
+    padding: 1.5rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+  .related-pages h2, .crosslinks h2 {
+    color: var(--accent);
+    font-size: 1.1rem;
+    margin-bottom: 0.75rem;
+  }
+  .related-pages ul, .crosslinks ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .related-pages li, .crosslinks li {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+  footer {
+    text-align: center;
+    padding: 2rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+  }
+  footer .links { margin: 1rem 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; }
+  footer .links a { color: var(--text-muted); font-size: 0.85rem; }
+  footer .disclaimer { max-width: 700px; margin: 1rem auto 0; font-size: 0.8rem; color: #7d8590; }
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.4rem; }
+    nav { padding: 0.5rem 1rem; }
+    main { padding: 1.5rem 1rem; }
+  }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav aria-label="Main navigation">
+<a class="site-name" href="/">automaticstay.org</a>
+<div class="nav-links">
+<a href="/">Home</a>
+<a class="active" href="/frequently-asked-questions.html">FAQ</a>
+<a href="/frequently-asked-questions-es.html">Espanol</a>
+</div>
+</nav>
+<header>
+<h1>Automatic Stay FAQ - Bankruptcy Protection Questions Answered</h1>
+<p class="subtitle">Common questions about the automatic stay in bankruptcy, what it covers, exceptions, violations, and how long protection lasts.</p>
+</header>
+<main id="main">
+<nav aria-label="Breadcrumb" class="breadcrumb-nav"><a href="https://openbankruptcyproject.org">Open Bankruptcy Project</a><span class="separator">›</span><a href="https://automaticstay.org/">automaticstay.org</a><span class="separator">›</span><span>FAQ</span></nav>
+<div class="faq-list" role="list">
+<details class="faq-item">
+<summary>What is the automatic stay in bankruptcy?</summary>
+<p>The automatic stay is an injunction that takes effect the instant you file a bankruptcy petition. Under 11 U.S.C. <a href="https://www.law.cornell.edu/uscode/text/11/362" rel="noopener" target="_blank">Section 362</a>, it immediately stops most collection actions, lawsuits, foreclosures, repossessions, wage garnishments, and creditor harassment. No court order is needed - it is automatic.</p>
+</details>
+<details class="faq-item">
+<summary>What does the automatic stay prevent?</summary>
+<p>The stay prevents creditors from: filing or continuing lawsuits, enforcing judgments, creating or enforcing liens, repossessing property, garnishing wages, offsetting debts, disconnecting utilities (for 20 days), and contacting you to collect debts. It provides a breathing room to reorganize your finances.</p>
+</details>
+<details class="faq-item">
+<summary>What are the exceptions to the automatic stay?</summary>
+<p>Key exceptions include: criminal proceedings, certain tax proceedings, domestic support obligation collection (child support, alimony), evictions where the landlord already has a judgment for possession, and certain financial instrument transactions. Police powers of governmental units are also generally exempt.</p>
+</details>
+<details class="faq-item">
+<summary>How long does the automatic stay last?</summary>
+<p>In a first-time filing, the stay lasts until the case is closed, dismissed, or <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> is granted. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, this is typically 3-4 months. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, it can last the entire 3-5 year plan. For repeat filers, special limits apply under Section 362(c).</p>
+</details>
+<details class="faq-item">
+<summary>What happens if a creditor violates the automatic stay?</summary>
+<p>Creditors who willfully violate the automatic stay can be held in contempt of court and ordered to pay actual damages, attorney fees, and in some cases punitive damages. Document every violation and report it to the court promptly. Violations are taken seriously by bankruptcy judges.</p>
+</details>
+<details class="faq-item">
+<summary>Does the automatic stay stop foreclosure?</summary>
+<p>Yes. The stay immediately halts foreclosure proceedings, whether pre-sale or post-judgment. However, the mortgage lender can file a <a href="https://relieffromstay.org/" title="relief from stay">motion for relief from stay</a>, which the court may grant if you have no equity and the property is not necessary for reorganization.</p>
+</details>
+<details class="faq-item">
+<summary>Does the automatic stay stop repossession?</summary>
+<p>Yes. The stay prevents vehicle repossession immediately upon filing. If a repossession has already occurred but the vehicle has not been sold, the stay may require the creditor to return the vehicle under the turnover provisions of Section 542.</p>
+</details>
+<details class="faq-item">
+<summary>What is a motion for relief from the automatic stay?</summary>
+<p>A creditor can ask the court to lift the automatic stay for a specific debt or property. Common grounds include: the debtor has no equity in the property and it is not necessary for reorganization (<a href="https://www.law.cornell.edu/uscode/text/11/362#d_0" rel="noopener" target="_blank">Section 362(d)</a>(1)), or the debtor is not making <a href="https://relieffromstay.org/" title="adequate protection">adequate protection</a> payments. The debtor has the right to oppose the motion.</p>
+</details>
+<details class="faq-item">
+<summary>Does the automatic stay stop <a href="https://stopgarnishment.org/" title="wage garnishment">wage garnishment</a>?</summary>
+<p>Yes. The stay immediately stops all wage garnishments except for domestic support obligations (child support and alimony). Your employer must stop the <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a> once notified of the bankruptcy filing. Wages garnished after filing may need to be returned.</p>
+</details>
+<details class="faq-item">
+<summary>What if I filed bankruptcy before - do I still get the automatic stay?</summary>
+<p>If you had one prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> within the last year, the stay only lasts 30 days unless you file a motion to extend it. If you had two or more cases dismissed within the last year, you get no automatic stay at all unless you file a motion to impose it.</p>
+</details>
+<details class="faq-item">
+<summary>Does the automatic stay protect co-debtors?</summary>
+<p>In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, the <a href="https://codebtorstay.org/" title="codebtor stay">co-debtor stay</a> under Section 1301 protects co-signers and guarantors on consumer debts from collection. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, there is no <a href="https://codebtorstay.org/" title="codebtor stay">co-debtor stay</a> - creditors can pursue co-signers even while the primary debtor's case is pending.</p>
+</details>
+<details class="faq-item">
+<summary>Can the automatic stay stop a lawsuit?</summary>
+<p>Yes. The stay immediately halts most civil lawsuits against you, including collection suits, foreclosure actions, and contract disputes. However, it does not stop criminal proceedings or actions by government regulators exercising police or regulatory powers.</p>
+</details>
+<details class="faq-item">
+<summary>Does the automatic stay stop utility disconnection?</summary>
+<p>The stay prevents utility companies from disconnecting service for 20 days after filing. After 20 days, the utility can require a deposit (no more than one month's service) as adequate assurance of future payment. This applies to electric, gas, water, and telephone services.</p>
+</details>
+<details class="faq-item">
+<summary>How do I notify creditors of the automatic stay?</summary>
+<p>The court sends official notice to all creditors listed in your petition. For immediate protection, you or your attorney can notify creditors directly by providing them with the case number and filing date. A creditor who continues collection after receiving notice faces contempt sanctions.</p>
+</details>
+<details class="faq-item">
+<summary>Can I waive the automatic stay?</summary>
+<p>Pre-petition waivers of the automatic stay are generally unenforceable. Courts have consistently held that debtors cannot waive their right to the stay before filing. However, the court can modify or terminate the stay after filing based on a creditor's motion.</p>
+</details>
+</div>
+<div class="related-pages">
+<h2>More Resources on This Site</h2>
+<ul>
+<li><a href="/what-it-covers.html">What It Covers</a></li>
+<li><a href="/exceptions.html">Exceptions</a></li>
+<li><a href="/violations.html">Violations</a></li>
+<li><a href="/how-long-does-it-last.html">How Long Does It Last</a></li>
+<li><a href="/motion-for-relief.html">Motion for Relief</a></li>
+<li><a href="/serial-filer-limits.html">Serial Filer Limits</a></li>
+</ul>
+</div>
+<div class="crosslinks">
+<h2>Related Resources</h2>
+<ul>
+<li><a href="https://109g.org?utm_source=automaticstay.org&amp;utm_medium=paa-faq&amp;utm_campaign=btn-network">Section 109(g) Filing Bar</a></li>
+<li><a href="https://keepmycarinbankruptcy.com?utm_source=automaticstay.org&amp;utm_medium=paa-faq&amp;utm_campaign=btn-network">Keep Your Car</a></li>
+<li><a href="https://keepmyhouseinbankruptcy.com?utm_source=automaticstay.org&amp;utm_medium=paa-faq&amp;utm_campaign=btn-network">Keep Your House</a></li>
+</ul>
+</div>
+</main>
+<!-- BTN:FOOTER:START -->
+<footer role="contentinfo">
+<p><strong>Open Bankruptcy Project</strong></p>
+<p>Real information, no strings.</p>
+<div class="links">
+<a href="https://openbankruptcyproject.org?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">openbankruptcyproject.org</a>
+<a href="https://1328f.com?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
+<a href="https://chapter7vs13.org?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">chapter7vs13.org</a>
+<a href="https://bankruptcymeanstest.org?utm_source=automaticstay.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">bankruptcymeanstest.org</a>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.4rem 1rem;border-radius:6px;font-weight:600;font-size:0.85rem;text-decoration:none">♥ Sponsor</a>
+</div>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html" style="color:#7d8590">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html" style="color:#7d8590">Terms</a></p>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script defer="" src="/btn-engage.js"></script>
+<script defer="" src="https://openbankruptcyproject.org/btn-search.js"></script>
+</body>
+</html>
